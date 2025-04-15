@@ -1,0 +1,820 @@
+id,name,country,position,second_position,club,age,born,matches_played,matches_started,minutes_played,goals,assists,goals_and_assists,yellow_cards,red_cards
+1,Liel Abada,ISR,Forward, ,Charlotte,22,2001,24,20,"1,637",7,1,8,2,0
+2,Jose Casas de Abadal,USA,Forward,Defender,Inter Miami,23,2000,2,0,31,0,0,0,0,0
+3,Luis Abram,PER,Defender,,Atlanta Utd,27,1996,19,11,"1,102",0,0,0,2,0
+4,Lalas Abubakar,GHA,Defender,,Colorado Rapids,29,1994,18,15,"1,278",0,1,1,3,0
+5,Kellyn Acosta,USA,Midfielder,,Chicago Fire,28,1995,34,27,"2,302",3,2,5,6,0
+6,Luciano Acosta,ARG,Midfielder,,FC Cincinnati,29,1994,32,29,"2,704",14,16,30,7,0
+7,Jordan Adebayo-Smith,NGA,Forward,Midfielder,Minnesota Utd,24,2000,11,1,254,0,0,0,2,0
+8,Sam Adekugbe,CAN,Defender,Midfielder,Vancouver W'caps,29,1995,16,8,751,1,2,3,4,0
+9,Samuel Adeniran,USA,Forward,,Philadelphia Union,25,1998,7,0,137,0,0,0,0,0
+10,Samuel Adeniran,USA,Forward,Midfielder,St. Louis,25,1998,17,4,596,2,1,3,2,0
+11,Leonardo Afonso,BRA,Forward,Midfielder,Inter Miami,22,2001,11,1,247,2,0,2,0,0
+12,Stephen Afrifa,CAN,Forward,,Sporting KC,22,2001,24,9,795,4,2,6,0,0
+13,William Agada,NGA,Forward,,Sporting KC,24,1999,32,20,"1,732",10,3,13,1,1
+14,London Aghedo,USA,Defender,,FC Cincinnati,23,2000,2,0,7,0,0,0,0,0
+15,Daniel Aguirre,USA,Midfielder,Forward,LA Galaxy,24,1999,10,0,107,0,0,0,0,0
+16,Patrick Agyemang,USA,Forward,,Charlotte,23,2000,31,19,"1,838",10,3,13,4,1
+17,Ali Ahmed,CAN,Midfielder,Defender,Vancouver W'caps,23,2000,22,15,"1,350",1,0,1,3,0
+18,Forster Ajago,GHA,Forward,,Nashville SC,22,2001,12,3,379,0,0,0,2,0
+19,Carlos Akapo,EQG,Defender,,SJ Earthquakes,30,1993,21,20,"1,601",0,1,1,7,0
+20,Matai Akinmboni,USA,Defender,,D.C. United,17,2006,8,4,438,0,1,1,3,1
+21,Ayo Akinola,CAN,Forward,Midfielder,Toronto FC,24,2000,5,0,87,0,0,0,1,0
+22,Jordi Alba,ESP,Defender,,Inter Miami,34,1989,28,24,"2,234",4,10,14,8,0
+23,Noah Allen,USA,Defender,,Inter Miami,19,2004,18,8,927,0,0,0,5,0
+24,Rasmus Alm,SWE,Forward,Midfielder,St. Louis,28,1995,20,11,836,2,2,4,3,0
+25,Thiago Almada,ARG,Midfielder,Forward,Atlanta Utd,22,2001,17,16,"1,392",6,1,7,5,0
+26,Fernando Álvarez,COL,Defender,,CF Montréal,20,2003,27,24,"2,140",1,1,2,3,0
+27,Pedro Amador,POR,Defender,,Atlanta Utd,25,1998,9,9,809,0,4,4,0,0
+28,Frankie Amaya,USA,Midfielder,,NY Red Bulls,23,2000,20,18,"1,608",1,2,3,4,0
+29,Malte Amundsen,DEN,Defender,,Columbus Crew,25,1998,31,26,"2,295",1,2,3,7,0
+30,Markus Anderson,USA,Midfielder,Forward,Philadelphia Union,20,2003,4,2,97,0,0,0,0,0
+31,Sebastian Anderson,USA,Defender,,Colorado Rapids,21,2002,9,5,507,0,1,1,1,0
+32,José Andrés Martínez,VEN,Midfielder,,Philadelphia Union,29,1994,16,13,"1,016",0,1,1,4,0
+33,Tomas Ángel,COL,Forward,Midfielder,LAFC,20,2003,5,0,51,1,0,1,0,0
+34,Iván Angulo,COL,Forward,Midfielder,Orlando City,24,1999,34,34,"2,759",5,6,11,4,0
+35,Eugene Ansah,GHA,Forward,Midfielder,FC Dallas,29,1994,17,5,434,1,0,1,0,0
+36,Conner Antley,USA,Defender,,D.C. United,28,1995,7,4,434,0,1,1,2,0
+37,Antony,BRA,Forward,Midfielder,Portland Timbers,22,2001,33,20,"1,886",6,4,10,0,0
+38,Brian Anunga,CMR,Midfielder,,Nashville SC,27,1996,30,17,"1,453",0,0,0,3,1
+39,Cristian Arango,COL,Forward,Midfielder,Real Salt Lake,28,1995,30,26,"2,286",17,6,23,7,0
+40,César Araujo,URU,Midfielder,,Orlando City,22,2001,30,28,"2,418",1,1,2,12,0
+41,Miguel Araujo,PER,Defender,,Portland Timbers,29,1994,22,17,"1,543",0,2,2,2,0
+42,Scott Arfield,CAN,Midfielder,Forward,Charlotte,35,1988,14,4,381,0,1,1,2,1
+43,Maximilian Arfsten,USA,Defender,,Columbus Crew,22,2001,31,23,"1,966",4,5,9,2,0
+44,Allan Arigoni,SUI,Defender,,Chicago Fire,25,1998,28,25,"2,096",1,0,1,6,0
+45,Daniel Armando Ríos,MEX,Forward,,Atlanta Utd,28,1995,27,16,"1,359",7,3,10,0,0
+46,Stuart Armstrong,SCO,Midfielder,Forward,Vancouver W'caps,31,1992,6,1,128,1,0,1,1,0
+47,Xavier Arreaga,ECU,Defender,,NE Revolution,29,1994,23,22,"1,934",0,0,0,6,0
+48,Xavier Arreaga,ECU,Defender,,Seattle Sounders FC,29,1994,5,2,255,0,0,0,1,0
+49,Kervin Arriaga,HON,Defender,Midfielder,Minnesota Utd,26,1998,13,9,880,3,0,3,3,0
+50,Paul Arriola,USA,Defender,Midfielder,FC Dallas,28,1995,31,28,"2,456",5,2,7,7,0
+51,Artur,BRA,Midfielder,,Houston Dynamo,27,1996,34,34,"3,038",0,1,1,4,0
+52,Yamil Asad,ARG,Defender,,FC Cincinnati,29,1994,23,8,800,3,5,8,1,0
+53,Dairon Asprilla,COL,Forward,Defender,Portland Timbers,31,1992,19,7,687,1,1,2,1,0
+54,Joshua Atencio,USA,Midfielder,,Seattle Sounders FC,22,2002,22,12,"1,069",0,1,1,3,1
+55,Eduard Atuesta,COL,Midfielder,,LAFC,26,1997,28,25,"2,190",4,2,6,9,1
+56,Julián Aude,ARG,Defender,,LA Galaxy,20,2003,25,21,"1,692",1,2,3,3,0
+57,Tomás Avilés,ARG,Defender,,Inter Miami,19,2004,27,26,"2,200",0,0,0,15,2
+58,Chidozie Awaziem,NGA,Defender,,FC Cincinnati,27,1997,7,7,533,0,2,2,3,0
+59,David Ayala,ARG,Midfielder,,Portland Timbers,21,2002,30,19,"1,468",1,1,2,2,0
+60,Hugo Bacharach,ESP,Defender,,Minnesota Utd,22,2001,1,1,90,0,0,0,0,0
+61,Dominique Badji,SEN,Midfielder,Forward,D.C. United,31,1992,9,3,299,1,0,1,2,0
+62,Corey Baird,USA,Forward,Midfielder,FC Cincinnati,28,1996,22,11,952,3,2,5,1,0
+63,Esmir Bajraktarevic,BIH,Forward,Midfielder,NE Revolution,18,2005,29,22,"1,984",3,1,4,1,0
+64,Cody Baker,USA,Defender,Midfielder,Seattle Sounders FC,20,2004,13,4,479,0,1,1,1,0
+65,Reed Baker-Whiting,USA,Defender,Forward,Seattle Sounders FC,18,2005,22,6,786,0,0,0,4,1
+66,Monsef Bakrar,ALG,Forward,,NYCFC,23,2001,28,14,"1,350",4,0,4,3,0
+67,Michael Baldisimo,PHI,Midfielder,,SJ Earthquakes,23,2000,2,0,25,0,0,0,0,0
+68,Fidel Barajas,MEX,Forward,,Real Salt Lake,17,2006,17,5,564,0,2,2,1,0
+69,Tai Baribo,ISR,Forward,,Philadelphia Union,26,1998,20,16,"1,409",9,2,11,2,0
+70,Tom Barlow,USA,Forward,Midfielder,Chicago Fire,28,1995,28,5,749,2,0,2,2,0
+71,Luis Barraza,USA,Keeper,,NYCFC,27,1996,1,0,79,0,0,0,0,0
+72,Lucas Bartlett,USA,Defender,,D.C. United,26,1997,32,31,"2,740",2,3,5,6,1
+73,Ethan Bartlow,USA,Defender,,Houston Dynamo,23,2000,16,9,851,0,0,0,0,0
+74,Cole Bassett,USA,Midfielder,Forward,Colorado Rapids,22,2001,30,29,"2,569",9,7,16,1,0
+75,Amine Bassi,FRA,Midfielder,,Houston Dynamo,26,1997,31,30,"2,533",3,6,9,5,0
+76,Zorhan Bassong,CAN,Defender,Midfielder,Sporting KC,24,1999,21,14,"1,248",0,1,1,3,1
+77,Josh Bauer,USA,Defender,,Nashville SC,25,1998,26,19,"1,861",0,0,0,5,0
+78,Tanner Beason,USA,Defender,,SJ Earthquakes,26,1997,26,17,"1,625",0,0,0,1,0
+79,Adam Beaudry,USA,Keeper,,Colorado Rapids,17,2006,1,1,90,0,0,0,0,0
+80,Gavin Beavers,USA,Keeper,,Real Salt Lake,18,2005,11,11,990,0,1,1,0,0
+81,Simon Becher,USA,Forward,,St. Louis,24,1999,9,6,547,4,0,4,1,0
+82,Alejandro Bedoya,USA,Midfielder,,Philadelphia Union,36,1987,30,13,"1,455",2,2,4,6,0
+83,Jon Bell,JAM,Defender,,Seattle Sounders FC,26,1997,10,5,487,1,0,1,0,0
+84,Matthew Bell,JAM,Forward,,Real Salt Lake,21,2002,1,0,20,0,0,0,0,0
+85,Ben Bender,USA,Midfielder,Forward,Charlotte,22,2001,6,2,194,1,0,1,1,0
+86,Christian Benteke,BEL,Forward,,D.C. United,33,1990,30,30,"2,594",23,5,28,8,1
+87,Nimfasha Berchimas,USA,Forward,Midfielder,Charlotte,15,2008,3,0,23,0,0,0,0,0
+88,Sebastian Berhalter,USA,Midfielder,Defender,Vancouver W'caps,22,2001,31,18,"1,866",2,3,5,5,0
+89,Federico Bernardeschi,ITA,Defender,Midfielder,Toronto FC,29,1994,29,28,"2,457",8,6,14,13,3
+90,Miguel Berry,ESP,Forward,,LA Galaxy,26,1997,31,6,826,2,3,5,1,0
+91,Pep Biel,ESP,Forward,Midfielder,Charlotte,27,1996,9,8,613,2,3,5,1,0
+92,Alessandro Biello,CAN,Midfielder,,CF Montréal,17,2006,2,0,16,0,0,0,0,0
+93,Steve Birnbaum,USA,Defender,,D.C. United,33,1991,6,4,346,0,1,1,2,0
+94,Guilherme Biro,BRA,Defender,,Austin,23,2000,31,26,"2,286",3,0,3,6,1
+95,Tristan Blackmon,USA,Defender,,Vancouver W'caps,27,1996,25,21,"1,886",0,1,1,4,0
+96,Andre Blake,JAM,Keeper,,Philadelphia Union,33,1990,14,14,"1,112",0,0,0,1,0
+97,Latif Blessing,GHA,Forward,Midfielder,Houston Dynamo,27,1996,27,12,986,5,1,6,1,0
+98,Njabulo Blom,RSA,Midfielder,,St. Louis,24,1999,16,11,877,1,0,1,4,0
+99,Emmanuel Boateng,GHA,Forward,,NE Revolution,30,1994,23,8,706,2,2,4,3,0
+100,Isaac Boehmer,USA,Keeper,,Vancouver W'caps,22,2001,1,1,90,0,0,0,0,0
+101,Mateusz Bogusz,POL,Forward,,LAFC,22,2001,32,31,"2,610",15,6,21,6,0
+102,Moïse Bombito,CAN,Defender,,Colorado Rapids,23,2000,18,17,"1,548",2,0,2,3,0
+103,Alex Bono,USA,Keeper,,D.C. United,29,1994,29,29,"2,610",0,0,0,0,0
+104,Shanyder Borgelin,HAI,Forward,Midfielder,Inter Miami,22,2001,6,1,137,0,0,0,0,0
+105,Dylan Borrero,COL,Forward,Midfielder,NE Revolution,22,2002,17,10,943,1,3,4,4,1
+106,Denis Bouanga,GAB,Forward,,LAFC,29,1994,32,30,"2,753",20,9,29,3,0
+107,Ousseni Bouda,BFA,Forward,,SJ Earthquakes,23,2000,12,3,374,1,0,1,1,0
+108,Aaron Boupendza,GAB,Forward,Midfielder,FC Cincinnati,27,1996,14,5,553,2,1,3,2,0
+109,Giuseppe Bovalina,AUS,Defender,Forward,Vancouver W'caps,19,2004,11,1,173,0,0,0,0,0
+110,Michael Boxall,NZL,Defender,,Minnesota Utd,35,1988,32,32,"2,835",1,0,1,9,0
+111,Tyler Boyd,USA,Forward,Midfielder,Nashville SC,29,1994,21,13,"1,133",2,2,4,2,0
+112,Christopher Brady,USA,Keeper,,Chicago Fire,19,2004,33,33,"2,970",0,1,1,2,0
+113,Alejandro Bran,CRC,Midfielder,,Minnesota Utd,22,2001,11,6,430,1,0,1,3,0
+114,Claudio Bravo,ARG,Defender,,Portland Timbers,26,1997,22,19,"1,593",0,2,2,3,0
+115,David Brekalo,SVN,Defender,,Orlando City,25,1998,19,12,"1,131",1,0,1,1,0
+116,Luke Brennan,USA,Forward,Defender,Atlanta Utd,18,2005,7,0,150,0,0,0,1,0
+117,Sebastian Breza,CAN,Keeper,,CF Montréal,25,1998,1,1,90,0,0,0,0,0
+118,Yannick Bright,ITA,Midfielder,,Inter Miami,22,2001,23,14,"1,408",0,2,2,4,0
+119,Andrew Brody,USA,Defender,,Real Salt Lake,28,1995,33,23,"2,108",0,1,1,0,0
+120,Brandt Bronico,USA,Midfielder,,Charlotte,28,1995,25,19,"1,734",1,5,6,4,0
+121,Lachlan Brook,AUS,Forward,,Real Salt Lake,22,2001,7,3,234,0,0,0,1,0
+122,Javain Brown,JAM,Defender,,Vancouver W'caps,24,1999,16,11,968,0,1,1,1,0
+123,Javain Brown,JAM,Defender,,Real Salt Lake,24,1999,6,4,333,0,0,0,1,0
+124,Gastón Brugman,URU,Midfielder,,LA Galaxy,31,1992,22,12,"1,186",0,1,1,5,0
+125,Pavel Bucha,CZE,Midfielder,,FC Cincinnati,25,1998,33,33,"2,913",4,2,6,5,0
+126,Noel Buck,ENG,Midfielder,Forward,NE Revolution,18,2005,13,7,537,1,1,2,0,0
+127,Dawid Bugaj,POL,Defender,,CF Montréal,19,2004,5,2,160,0,0,0,0,0
+128,Osman Bukari,GHA,Forward,Midfielder,Austin,25,1998,9,8,614,1,2,3,1,0
+129,Teal Bunbury,USA,Forward,,Nashville SC,33,1990,27,12,"1,150",3,2,5,1,0
+130,Cory Burke,JAM,Forward,,NY Red Bulls,32,1991,18,1,298,1,1,2,2,0
+131,Roman Bürki,SUI,Keeper,,St. Louis,33,1990,32,32,"2,821",0,0,0,0,0
+132,Evan Bush,USA,Keeper,,Columbus Crew,37,1986,2,2,124,0,0,0,1,0
+133,Sergio Busquets,ESP,Midfielder,Defender,Inter Miami,35,1988,30,27,"2,484",1,4,5,7,1
+134,Brandon Bye,USA,Defender,,NE Revolution,28,1995,13,10,787,1,1,2,0,0
+135,Nathan Byrne,ENG,Defender,,Charlotte,31,1992,31,31,"2,790",0,2,2,6,0
+136,Kevin Cabral,FRA,Forward,Midfielder,Colorado Rapids,24,1999,23,18,"1,309",5,2,7,4,1
+137,Martín Cáceres,URU,Defender,,LA Galaxy,36,1987,15,14,"1,070",0,0,0,3,1
+138,Deiber Caicedo,COL,Forward,Defender,Vancouver W'caps,23,2000,5,1,126,0,0,0,0,0
+139,Noel Caliskan,GER,Midfielder,,Real Salt Lake,23,2000,5,2,202,0,0,0,0,0
+140,Drake Callender,USA,Keeper,,Inter Miami,26,1997,32,32,"2,880",0,0,0,0,0
+141,Rudy Camacho,FRA,Defender,,Columbus Crew,32,1991,28,27,"2,311",1,1,2,5,1
+142,Brandon Cambridge,USA,Forward,,Charlotte,21,2002,4,0,30,0,0,0,0,0
+143,Leonardo Campana,ECU,Forward,,Inter Miami,23,2000,28,14,"1,280",8,2,10,6,0
+144,George Campbell,USA,Defender,,CF Montréal,22,2001,28,25,"2,197",0,2,2,8,0
+145,Omar Campos,MEX,Defender,Midfielder,LAFC,21,2002,27,17,"1,612",0,2,2,1,0
+146,Reggie Cannon,USA,Defender,,Colorado Rapids,25,1998,6,4,343,1,0,1,1,0
+147,Russell Canouse,USA,Midfielder,Defender,D.C. United,28,1995,2,0,15,0,0,0,0,0
+148,Felipe Carballo,URU,Midfielder,,NY Red Bulls,27,1996,8,5,449,0,0,0,2,0
+149,Nathan Cardoso,BRA,Defender,,Seattle Sounders FC,28,1995,4,1,90,0,0,0,0,0
+150,Wikelman Carmona,VEN,Midfielder,Forward,NY Red Bulls,20,2003,24,18,"1,593",3,4,7,2,0
+151,Julián Carranza,ARG,Forward,,Philadelphia Union,23,2000,12,11,"1,073",6,0,6,5,0
+152,Adalberto Carrasquilla,PAN,Forward,Midfielder,Houston Dynamo,25,1998,28,26,"2,294",3,5,8,6,0
+153,Wilder Cartagena,PER,Midfielder,Defender,Orlando City,29,1994,27,25,"2,192",0,1,1,7,0
+154,Javier Casas,USA,Midfielder,,Chicago Fire,20,2003,1,0,1,0,0,0,0,0
+155,Julio Cascante,CRC,Defender,,Austin,30,1993,25,21,"1,867",2,0,2,11,0
+156,Robert Castellanos,USA,Defender,,Sporting KC,25,1998,14,10,"1,034",1,0,1,2,0
+157,Roman Celentano,USA,Keeper,,FC Cincinnati,23,2000,30,30,"2,700",0,0,0,1,0
+158,Edwin Cerrillo,USA,Midfielder,,LA Galaxy,23,2000,33,24,"2,082",1,0,1,7,0
+159,Dylan Chambost,FRA,Midfielder,Forward,Columbus Crew,26,1997,10,6,552,0,4,4,0,0
+160,Tomás Chancalay,ARG,Forward,,NE Revolution,25,1999,12,11,929,2,1,3,4,0
+161,Maikel Chang,CUB,Forward,Midfielder,Real Salt Lake,32,1991,22,3,368,0,3,3,2,0
+162,Maxime Chanot,LUX,Defender,,LAFC,34,1989,23,15,"1,333",0,2,2,5,0
+163,Diego Chará,COL,Midfielder,,Portland Timbers,37,1986,32,28,"2,424",0,0,0,9,1
+164,Gabriel Chaves,BRA,Forward,,LA Galaxy,22,2001,33,30,"2,727",16,12,28,1,0
+165,Yevhen Cheberko,UKR,Defender,,Columbus Crew,26,1998,25,17,"1,689",1,0,1,4,0
+166,Mathieu Choiniere,CAN,Midfielder,,CF Montréal,24,1999,17,17,"1,497",2,1,3,5,0
+167,Léo Chú,BRA,Forward,Midfielder,Seattle Sounders FC,23,2000,14,12,714,1,2,3,0,0
+168,Caden Clark,USA,Defender,Forward,Minnesota Utd,20,2003,23,11,"1,032",0,0,0,3,0
+169,Caden Clark,USA,Midfielder,,CF Montréal,20,2003,9,8,669,4,2,6,1,0
+170,Steve Clark,USA,Keeper,,Houston Dynamo,37,1986,31,31,"2,772",0,0,0,1,0
+171,Noah Cobb,USA,Defender,,Atlanta Utd,18,2005,19,16,"1,353",0,0,0,1,0
+172,Matías Cóccaro,URU,Forward,Midfielder,CF Montréal,26,1997,22,10,902,4,1,5,2,0
+173,Alonso Coello,ESP,Midfielder,,Toronto FC,24,1999,25,20,"1,530",1,2,3,4,0
+174,Josh Cohen,USA,Keeper,,Atlanta Utd,31,1992,3,2,209,0,0,0,0,0
+175,Enzo Copetti,ARG,Forward,,Charlotte,28,1996,9,6,495,1,1,2,1,0
+176,Gabriele Corbo,ITA,Defender,,CF Montréal,24,2000,28,18,"1,725",0,0,0,1,0
+177,Carlos Coronel,PAR,Keeper,,NY Red Bulls,27,1996,27,27,"2,430",0,0,0,2,0
+178,Vitor Costa,BRA,Defender,,SJ Earthquakes,29,1994,29,22,"2,101",2,3,5,8,0
+179,Ben Cremaschi,USA,Midfielder,,Inter Miami,18,2005,22,12,"1,140",4,1,5,3,0
+180,Maxime Crépeau,CAN,Keeper,,Portland Timbers,29,1994,20,20,"1,757",0,0,0,2,1
+181,Matt Crooks,ENG,Midfielder,,Real Salt Lake,30,1994,29,23,"1,883",3,3,6,7,0
+182,Andrés Cubas,PAR,Midfielder,,Vancouver W'caps,27,1996,24,23,"1,931",0,1,1,7,0
+183,Cucho,COL,Forward,Midfielder,Columbus Crew,24,1999,27,23,"2,113",19,10,29,3,1
+184,Mauricio Cuevas,USA,Defender,Forward,LA Galaxy,20,2003,18,1,330,1,1,2,1,0
+185,Hugo Cuypers,BEL,Forward,,Chicago Fire,26,1997,31,31,"2,617",10,2,12,3,0
+186,Rafael Czichos,GER,Defender,,Chicago Fire,33,1990,28,26,"2,336",1,2,3,6,0
+187,Cristián Dajome,COL,Defender,Forward,D.C. United,30,1994,31,23,"2,022",3,2,5,10,1
+188,Dagur Dan Þórhallsson,ISL,Defender,,Orlando City,23,2000,31,29,"2,408",2,5,7,4,0
+189,Daniel,BRA,Keeper,,SJ Earthquakes,29,1994,12,12,"1,080",0,0,0,1,0
+190,Jesús Daniel Bueno,VEN,Midfielder,,Philadelphia Union,24,1999,14,7,625,3,0,3,0,0
+191,Héctor David Martínez,PAR,Defender,,Inter Miami,26,1998,4,4,280,0,1,1,1,0
+192,Juan David Mosquera,COL,Defender,,Portland Timbers,21,2002,34,34,"2,780",1,4,5,1,0
+193,Jesús David Murillo,COL,Defender,,LAFC,29,1994,22,19,"1,694",0,0,0,5,1
+194,Bode Davis,USA,Defender,Forward,Real Salt Lake,21,2002,25,15,"1,455",0,1,1,2,0
+195,Jake Davis,USA,Defender,Midfielder,Sporting KC,22,2002,27,25,"2,225",3,3,6,11,1
+196,Sean Davis,USA,Midfielder,,Nashville SC,30,1993,25,17,"1,359",0,0,0,2,0
+197,Pedro De la Vega,ARG,Forward,Midfielder,Seattle Sounders FC,22,2001,16,9,652,1,1,2,1,0
+198,Jonathan Dean,USA,Defender,,Chicago Fire,26,1997,24,12,"1,111",1,0,1,2,0
+199,Brecht Dejaegere,BEL,Forward,Midfielder,Charlotte,32,1991,20,10,918,1,2,3,5,0
+200,Marky Delgado,USA,Midfielder,,LA Galaxy,28,1995,32,29,"2,466",1,4,5,7,1
+201,Patrickson Delgado,ECU,Midfielder,,FC Dallas,20,2003,23,14,"1,158",4,2,6,2,0
+202,Mikkel Desler,DEN,Defender,,Austin,28,1995,7,6,489,0,0,0,1,0
+203,Lamine Diack,SEN,Forward,Midfielder,Colorado Rapids,23,2000,4,0,19,0,0,0,0,0
+204,Djibril Diani,FRA,Midfielder,,Charlotte,25,1998,28,21,"1,781",1,1,2,4,0
+205,Marcos Dias,BRA,Forward,,NE Revolution,22,2001,1,0,4,0,0,0,0,0
+206,Jefferson Díaz,COL,Defender,,Minnesota Utd,23,2000,9,9,797,0,0,0,4,0
+207,Ronald Donkor,MLI,Midfielder,Defender,NY Red Bulls,19,2004,17,12,939,0,0,0,2,0
+208,Christopher Donovan,USA,Forward,Midfielder,Philadelphia Union,23,2000,18,4,379,1,0,1,0,0
+209,Griffin Dorsey,USA,Defender,,Houston Dynamo,24,1999,32,31,"2,653",3,3,6,7,1
+210,C.J. dos Santos,USA,Keeper,,Inter Miami,23,2000,1,1,90,0,0,0,0,0
+211,Hassani Dotson,USA,Midfielder,,Minnesota Utd,26,1997,29,26,"2,250",5,2,7,4,1
+212,Sebastián Driussi,ARG,Midfielder,Forward,Austin,27,1996,27,26,"2,257",7,3,10,6,1
+213,Erik Duenas,USA,Midfielder,,LAFC,19,2004,14,4,387,0,0,0,3,0
+214,Morris Duggan,GER,Defender,,Minnesota Utd,23,2000,2,0,49,0,0,0,0,0
+215,Bryce Duke,USA,Midfielder,,CF Montréal,22,2001,32,24,"2,145",3,4,7,2,0
+216,Kyle Duncan,USA,Defender,,NY Red Bulls,26,1997,21,14,"1,284",1,1,2,4,0
+217,Chris Durkin,USA,Midfielder,,St. Louis,23,2000,28,26,"2,260",1,2,3,10,0
+218,Nikolas Dyhr,DEN,Defender,,St. Louis,22,2001,5,2,138,0,0,0,0,0
+219,Jeremy Ebobisse,USA,Forward,,SJ Earthquakes,26,1997,31,25,"1,933",6,1,7,0,0
+220,Daniel Edelman,USA,Midfielder,,NY Red Bulls,20,2003,31,29,"2,524",0,0,0,9,1
+221,Earl Edwards Jr.,USA,Keeper,,NE Revolution,32,1992,1,1,90,0,0,0,0,0
+222,Matthew Edwards,USA,Defender,,Atlanta Utd,20,2003,1,0,2,0,0,0,0,0
+223,Michael Edwards,USA,Defender,,Colorado Rapids,23,2000,4,2,208,1,0,1,1,0
+224,Raheem Edwards,CAN,Defender,Midfielder,CF Montréal,28,1995,25,18,"1,549",0,5,5,8,1
+225,Noah Eile,SWE,Defender,,NY Red Bulls,21,2002,29,27,"2,418",0,1,1,6,1
+226,Piero Elias,USA,Forward,,NYCFC,21,2002,1,0,1,0,0,0,0,0
+227,Jack Elliott,ENG,Defender,,Philadelphia Union,28,1995,28,27,"2,391",0,2,2,7,1
+228,Herbert Endeley,USA,Midfielder,Defender,FC Dallas,22,2001,4,1,113,0,0,0,0,0
+229,Emeka Eneli,USA,Midfielder,,Real Salt Lake,24,1999,33,31,"2,668",1,1,2,6,0
+230,Lawrence Ennali,GER,Forward,,Houston Dynamo,21,2002,2,0,49,1,0,1,0,0
+231,Boris Enow,CMR,Midfielder,,D.C. United,23,2000,7,3,302,0,0,0,3,1
+232,Ramiro Enrique,ARG,Forward,,Orlando City,22,2001,20,12,"1,084",8,2,10,4,0
+233,Victor Enriquez,,Midfielder,,Portland Timbers,,,1,0,6,0,0,0,0,0
+234,Victor Eriksson,SWE,Defender,,Minnesota Utd,23,2000,4,2,166,0,0,0,0,0
+235,Franco Escobar,ARG,Defender,,Houston Dynamo,28,1995,24,21,"1,818",2,1,3,12,1
+236,Cristian Espinoza,ARG,Forward,Midfielder,SJ Earthquakes,28,1995,34,34,"2,969",4,13,17,5,0
+237,Derrick Etienne,HAI,Midfielder,Forward,Toronto FC,27,1996,23,19,"1,649",3,0,3,2,0
+238,Derrick Etienne,HAI,Forward,Midfielder,Atlanta Utd,27,1996,2,0,27,0,0,0,0,0
+239,Evander,BRA,Midfielder,,Portland Timbers,25,1998,28,27,"2,459",15,15,30,8,0
+240,Diego Fagúndez,URU,Forward,Midfielder,LA Galaxy,28,1995,34,19,"1,671",4,1,5,2,0
+241,Marco Farfan,USA,Defender,,FC Dallas,25,1998,26,23,"2,024",1,1,2,4,0
+242,Bryant Farkarlun,LBR,Forward,,Austin,22,2001,1,0,7,0,0,0,0,0
+243,Andrew Farrell,USA,Defender,Midfielder,NE Revolution,31,1992,14,6,552,0,0,0,0,0
+244,Logan Farrington,USA,Forward,Midfielder,FC Dallas,22,2001,29,10,"1,225",4,5,9,4,0
+245,Mohamed Farsi,ALG,Defender,,Columbus Crew,24,1999,27,21,"1,872",4,2,6,1,0
+246,Felipe,BRA,Midfielder,Forward,Orlando City,33,1990,14,4,355,0,0,0,3,0
+247,Joaquín Fernández,ESP,Defender,,Sporting KC,27,1996,2,2,115,0,0,0,0,0
+248,Julián Fernández,ARG,Forward,Midfielder,NYCFC,20,2004,21,6,674,2,2,4,1,1
+249,Omir Fernandez,USA,Forward,Midfielder,Colorado Rapids,24,1999,33,19,"1,691",2,3,5,0,0
+250,Jesús Ferreira,USA,Midfielder,Forward,FC Dallas,23,2000,22,14,"1,319",5,3,8,0,0
+251,Sebastián Ferreira,PAR,Forward,,Houston Dynamo,25,1998,18,6,723,5,3,8,2,0
+252,Ethan Finlay,USA,Forward,Midfielder,Austin,33,1990,22,8,831,1,0,1,0,0
+253,Nicolas Firmino,USA,Forward,Midfielder,Atlanta Utd,23,2001,8,2,165,0,0,0,0,0
+254,Leon Flach,USA,Midfielder,,Philadelphia Union,22,2001,23,22,"1,823",0,3,3,2,0
+255,Kristian Fletcher,USA,Forward,Midfielder,D.C. United,18,2005,13,1,246,1,0,1,1,0
+256,Nicolas Fleuriau,CAN,Defender,Forward,Vancouver W'caps,21,2002,2,0,40,0,0,0,1,0
+257,Deybi Flores,HON,Midfielder,,Toronto FC,27,1996,29,23,"2,089",1,1,2,9,0
+258,CJ Fodrey,USA,Forward,Midfielder,Austin,19,2004,12,0,196,0,1,1,3,0
+259,Nathan Fogaça,BRA,Forward,Midfielder,Portland Timbers,24,1999,16,1,182,1,0,1,1,0
+260,Andreu Fontàs,ESP,Defender,,Sporting KC,34,1989,17,16,"1,409",0,1,1,4,0
+261,Emil Forsberg,SWE,Midfielder,,NY Red Bulls,32,1991,19,15,"1,356",9,4,13,1,0
+262,Ajani Fortune,TRI,Midfielder,Forward,Atlanta Utd,21,2002,27,13,"1,307",1,2,3,4,0
+263,Isaiah Foster,USA,Defender,,FC Cincinnati,20,2003,1,0,4,0,0,0,0,0
+264,Franco Fragapane,ARG,Midfielder,Forward,Minnesota Utd,30,1993,24,6,830,1,2,3,1,0
+265,Kobe Franklin,CAN,Defender,Midfielder,Toronto FC,20,2003,21,5,709,0,1,1,1,0
+266,Liam Fraser,CAN,Midfielder,,FC Dallas,25,1998,18,17,"1,378",1,1,2,4,0
+267,Ian Fray,USA,Defender,,Inter Miami,21,2002,14,7,653,2,0,2,4,0
+268,Wayne Frederick,TRI,Midfielder,,Colorado Rapids,19,2004,1,0,1,0,0,0,0,0
+269,Alexander Freeman,USA,Defender,Midfielder,Orlando City,19,2004,2,0,10,0,1,1,0,0
+270,Matt Freese,USA,Keeper,,NYCFC,25,1998,34,34,"2,981",0,0,0,3,0
+271,Stefan Frei,SUI,Keeper,,Seattle Sounders FC,37,1986,29,29,"2,464",0,0,0,0,1
+272,Nicolás Freire,ARG,Defender,,Inter Miami,29,1994,10,9,738,0,0,0,1,0
+273,Malcolm Fry,USA,Forward,,NE Revolution,18,2005,2,0,31,0,0,0,0,0
+274,Julian Gaines,USA,Defender,,Nashville SC,21,2002,4,2,222,0,0,0,1,0
+275,McKinze Gaines,USA,Forward,Midfielder,Houston Dynamo,25,1998,11,0,154,0,0,0,1,0
+276,McKinze Gaines,USA,Midfielder,Defender,Nashville SC,25,1998,4,1,124,0,1,1,0,0
+277,Jon Gallagher,IRL,Defender,,Austin,27,1996,32,30,"2,661",3,2,5,5,0
+278,Pedro Gallese,PER,Keeper,,Orlando City,33,1990,29,29,"2,610",0,0,0,2,0
+279,Jeremy Garay,SLV,Forward,,D.C. United,20,2003,2,0,10,0,0,0,0,0
+280,Carlos Garcés,COL,Defender,,LA Galaxy,22,2001,9,4,396,0,0,0,0,0
+281,Chase Gasper,USA,Defender,,Chicago Fire,28,1996,4,2,240,0,0,0,1,0
+282,Ryan Gauld,SCO,Forward,Midfielder,Vancouver W'caps,28,1995,30,28,"2,455",10,12,22,3,0
+283,Luka Gavran,CAN,Keeper,,Toronto FC,23,2000,9,9,810,0,0,0,0,0
+284,Dániel Gazdag,HUN,Midfielder,Forward,Philadelphia Union,27,1996,30,28,"2,498",17,2,19,6,0
+285,Giorgos Giakoumakis,GRE,Forward,,Atlanta Utd,29,1994,11,8,721,5,1,6,3,0
+286,Carles Gil,ESP,Midfielder,,NE Revolution,31,1992,26,26,"2,288",7,5,12,4,0
+287,Nacho Gil,ESP,Forward,Midfielder,NE Revolution,28,1995,17,6,632,1,1,2,3,0
+288,Gastón Giménez,PAR,Midfielder,,Chicago Fire,32,1991,29,18,"1,690",1,2,3,2,0
+289,Nicholas Gioacchini,USA,Forward,Midfielder,FC Cincinnati,23,2000,8,6,433,0,0,0,0,0
+290,Jake Girdwood-Reich,AUS,Midfielder,Forward,St. Louis,19,2004,8,1,149,0,0,0,0,0
+291,Olivier Giroud,FRA,Forward,,LAFC,37,1986,10,7,605,0,1,1,0,0
+292,Dennis Gjengaar,NOR,Midfielder,Forward,NY Red Bulls,19,2004,25,9,933,2,0,2,0,0
+293,Justen Glad,USA,Defender,,Real Salt Lake,26,1997,26,25,"2,250",0,0,0,4,0
+294,Omari Glasgow,GUY,Midfielder,,Chicago Fire,20,2003,2,0,36,0,0,0,0,0
+295,Jakob Glesnes,NOR,Defender,,Philadelphia Union,29,1994,32,31,"2,804",2,2,4,3,0
+296,Caden Glover,USA,Forward,,St. Louis,16,2007,5,0,54,0,0,0,0,0
+297,Aníbal Godoy,PAN,Midfielder,,Nashville SC,33,1990,23,17,"1,492",1,3,4,8,0
+298,Yeimar Gómez Andrade,COL,Defender,,Seattle Sounders FC,31,1992,30,28,"2,470",1,0,1,5,0
+299,Carlos Gómez,COL,Forward,,Real Salt Lake,21,2002,23,22,"1,807",13,7,20,6,0
+300,Diego Gómez,PAR,Forward,Midfielder,Inter Miami,20,2003,19,15,"1,354",3,3,6,6,0
+301,Nicksoen Gomis,FRA,Defender,,Toronto FC,21,2002,24,23,"2,041",0,0,0,5,1
+302,Diogo Gonçalves,POR,Midfielder,Forward,Real Salt Lake,26,1997,9,6,550,2,0,2,0,0
+303,Omar Gonzalez,USA,Defender,,FC Dallas,35,1988,15,10,837,0,0,0,2,0
+304,Zavier Gozo,USA,Forward,,Real Salt Lake,16,2007,1,0,12,0,0,0,0,0
+305,Tayvon Gray,JAM,Defender,,NYCFC,21,2002,27,19,"1,635",1,7,8,4,0
+306,Ján Greguš,SVK,Midfielder,,Houston Dynamo,33,1991,7,4,382,0,0,0,0,0
+307,Julian Gressel,USA,Midfielder,Forward,Inter Miami,30,1993,32,31,"2,340",1,9,10,2,0
+308,Carlos Gruezo,ECU,Midfielder,,SJ Earthquakes,28,1995,24,23,"1,969",0,0,0,9,0
+309,Brian Gutiérrez,USA,Midfielder,Forward,Chicago Fire,20,2003,32,26,"2,374",6,3,9,5,0
+310,Andrew Gutman,USA,Defender,,Chicago Fire,27,1996,11,11,727,1,1,2,1,0
+311,Brad Guzan,USA,Keeper,,Atlanta Utd,39,1984,32,32,"2,849",0,0,0,3,1
+312,Justin Haak,USA,Defender,Midfielder,NYCFC,22,2001,15,6,782,0,0,0,5,0
+313,Taha Habroune,USA,Midfielder,,Columbus Crew,17,2006,5,1,92,0,0,0,1,0
+314,Teenage Hadebe,ZIM,Defender,,FC Cincinnati,28,1995,4,3,186,0,1,1,1,0
+315,Nicholas Hagen,GUA,Keeper,,Columbus Crew,27,1996,4,3,326,0,0,0,0,0
+316,Nick Hagglund,USA,Defender,,FC Cincinnati,31,1992,10,6,462,0,0,0,0,0
+317,Maren Haile-Selassie,SUI,Forward,Midfielder,Chicago Fire,24,1999,27,23,"2,035",5,2,7,1,0
+318,Belal Halbouni,SYR,Defender,,Vancouver W'caps,24,1999,3,2,168,0,0,0,0,0
+319,Julian Hall,USA,Midfielder,Forward,NY Red Bulls,15,2008,11,0,160,2,1,3,0,0
+320,Michael Halliday,USA,Defender,,Orlando City,21,2003,6,0,110,0,0,0,1,0
+321,Bret Halsey,USA,Defender,,FC Cincinnati,23,2000,21,3,482,0,0,0,2,1
+322,Ian Harkes,USA,Midfielder,,NE Revolution,28,1995,27,17,"1,606",1,0,1,6,1
+323,Cameron Harper,USA,Midfielder,Defender,NY Red Bulls,22,2001,27,16,"1,419",5,0,5,3,0
+324,Nathan Harriel,USA,Defender,,Philadelphia Union,22,2001,29,27,"2,372",2,4,6,4,0
+325,Calvin Harris,ENG,Forward,,Colorado Rapids,23,2000,32,16,"1,523",3,3,6,5,0
+326,Marcel Hartel,GER,Midfielder,Forward,St. Louis,28,1996,9,9,810,3,5,8,3,0
+327,Carlos Harvey,PAN,Defender,Midfielder,Minnesota Utd,23,2000,18,12,"1,046",0,1,1,1,0
+328,Thomas Hasal,CAN,Keeper,,LAFC,24,1999,1,1,90,0,0,0,0,0
+329,Matt Hedges,USA,Defender,,Austin,33,1990,15,10,875,1,0,1,1,0
+330,Fabian Herbers,GER,Midfielder,,Chicago Fire,30,1993,30,24,"2,037",3,4,7,8,0
+331,Jay Herdman,NZL,Forward,,Vancouver W'caps,19,2004,1,0,10,0,0,0,0,0
+332,Felipe Hernandez,USA,Midfielder,,Sporting KC,25,1998,7,2,377,0,0,0,1,0
+333,Ronald Hernández,VEN,Defender,,Atlanta Utd,26,1997,13,7,710,0,1,1,0,0
+334,Aaron Herrera,GUA,Defender,,D.C. United,26,1997,30,29,"2,594",1,4,5,9,0
+335,Héctor Herrera,MEX,Midfielder,,Houston Dynamo,33,1990,22,19,"1,616",1,1,2,3,0
+336,Marcelo Herrera,ARG,Defender,,Columbus Crew,25,1998,10,5,472,1,0,1,1,0
+337,Kyle Hiebert,CAN,Defender,,St. Louis,26,1997,20,14,"1,365",0,0,0,1,0
+338,Brendan Hines-Ike,USA,Defender,,Austin,29,1994,28,25,"2,221",2,1,3,6,1
+339,Marino Hinestroza,COL,Midfielder,Forward,Columbus Crew,21,2002,16,4,353,2,0,2,0,1
+340,Bongokuhle Hlongwane,RSA,Forward,Defender,Minnesota Utd,23,2000,32,23,"1,921",11,4,15,2,0
+341,Ryan Hollingshead,USA,Defender,Midfielder,LAFC,32,1991,31,25,"2,207",1,2,3,4,0
+342,Jackson Hopkins,USA,Midfielder,,D.C. United,19,2004,17,12,955,0,0,0,4,0
+343,Jannes Horn,GER,Defender,,St. Louis,26,1997,9,7,561,0,1,1,4,0
+344,Sebastien Ibeagha,USA,Defender,,FC Dallas,32,1992,31,31,"2,790",2,0,2,7,0
+345,Aliyu Ibrahim,NGA,Forward,,Houston Dynamo,22,2002,34,33,"2,650",6,4,10,4,0
+346,Sunusi Ibrahim,NGA,Forward,Midfielder,CF Montréal,21,2002,25,10,"1,006",6,1,7,0,0
+347,Tega Ikoba,USA,Forward,Midfielder,Portland Timbers,20,2003,2,0,9,0,0,0,0,0
+348,Mitja Ilenič,SVN,Defender,,NYCFC,19,2004,23,16,"1,467",1,0,1,1,1
+349,Asier Illarramendi,ESP,Midfielder,,FC Dallas,33,1990,25,22,"1,952",2,5,7,8,0
+350,Bjørn Inge Utvik,NOR,Defender,,Vancouver W'caps,27,1996,23,19,"1,707",0,0,0,1,1
+351,Lorenzo Insigne,ITA,Midfielder,Forward,Toronto FC,32,1991,23,17,"1,352",4,5,9,4,0
+352,Clint Irwin,USA,Keeper,,Minnesota Utd,34,1989,5,5,450,0,0,0,0,0
+353,Aljaž Ivačič,SVN,Keeper,,NE Revolution,30,1993,25,25,"2,250",0,0,0,2,0
+354,Ousman jabang,USA,Defender,,CF Montréal,22,2001,1,0,3,0,0,0,0,0
+355,Aziel Jackson,USA,Midfielder,,Columbus Crew,22,2001,9,5,357,2,2,4,0,0
+356,Aziel Jackson,USA,Forward,Midfielder,St. Louis,22,2001,16,8,800,0,0,0,3,0
+357,Jacob Jackson,USA,Keeper,,SJ Earthquakes,23,2000,3,3,270,0,0,0,0,0
+358,Robin Jansson,SWE,Defender,,Orlando City,32,1991,30,30,"2,660",1,0,1,8,0
+359,Andres Jasson,USA,Midfielder,Forward,NYCFC,22,2002,3,2,157,0,0,0,0,0
+360,Mohanad Jeahze,IRQ,Midfielder,,D.C. United,26,1997,1,0,1,0,0,0,0,0
+361,Danley Jean-Jacques,HAI,Midfielder,,Philadelphia Union,23,2000,8,4,447,0,0,0,0,0
+362,Hector Jiménez,USA,Defender,,Austin,35,1988,15,6,578,0,1,1,2,0
+363,Stiven Jimenez,USA,Midfielder,,FC Cincinnati,16,2007,1,0,4,0,0,0,0,0
+364,Levonte Johnson,CAN,Forward,Midfielder,Vancouver W'caps,24,1999,25,7,669,0,0,0,1,0
+365,Sean Johnson,USA,Keeper,,Toronto FC,34,1989,25,25,"2,250",0,0,0,5,0
+366,DeJuan Jones,USA,Defender,,NE Revolution,26,1997,17,16,"1,413",0,2,2,1,0
+367,DeJuan Jones,USA,Defender,,Columbus Crew,26,1997,10,4,409,2,0,2,0,0
+368,Derrick Jones,USA,Midfielder,,Columbus Crew,26,1997,20,4,477,0,1,1,3,1
+369,Isaiah Jones,USA,Midfielder,Forward,Nashville SC,17,2006,2,0,12,0,0,0,0,0
+370,Malachi Jones,SLE,Forward,,NYCFC,20,2003,14,4,488,1,1,2,3,0
+371,Dejan Joveljić,SRB,Forward,,LA Galaxy,24,1999,28,23,"1,927",15,5,20,2,0
+372,Mykhi Joyner,USA,Forward,,St. Louis,17,2006,1,0,45,0,0,0,0,0
+373,Preston Judd,USA,Forward,,SJ Earthquakes,24,1999,26,6,720,1,0,1,4,1
+374,Anderson Julio,ECU,Forward,Midfielder,Real Salt Lake,27,1996,33,13,"1,394",9,3,12,1,0
+375,Sam Junqua,USA,Defender,,FC Dallas,27,1996,31,26,"2,240",1,2,3,2,0
+376,Sawyer Jura,USA,Defender,,Portland Timbers,17,2006,1,0,3,0,0,0,0,0
+377,Cyprian Kachwele,TAN,Midfielder,,Vancouver W'caps,18,2005,1,0,3,0,0,0,0,0
+378,Kristijan Kahlina,CRO,Keeper,,Charlotte,31,1992,34,34,"3,060",0,0,0,5,0
+379,Brent Kallman,USA,Defender,,Nashville SC,33,1990,13,5,544,0,0,0,1,0
+380,Kei Kamara,SLE,Forward,,LAFC,39,1984,27,10,"1,007",3,5,8,2,0
+381,Bernard Kamungo,USA,Midfielder,Forward,FC Dallas,22,2002,29,13,"1,321",0,2,2,2,0
+382,Alec Kann,USA,Keeper,,FC Cincinnati,33,1990,3,3,270,0,0,0,0,0
+383,Alexandros Katranis,GRE,Defender,,Real Salt Lake,25,1998,29,23,"1,994",3,3,6,9,0
+384,Mark-Anthony Kaye,CAN,Midfielder,,NE Revolution,29,1994,21,15,"1,392",0,0,0,1,0
+385,Kipp Keller,USA,Defender,,FC Cincinnati,23,2000,16,10,819,0,0,0,1,0
+386,Kevin Kelsy,VEN,Forward,,FC Cincinnati,19,2004,23,16,"1,241",6,0,6,6,0
+387,Deandre Kerr,CAN,Forward,,Toronto FC,21,2002,26,12,990,3,1,4,2,0
+388,Henry Kessler,USA,Defender,,NE Revolution,25,1998,17,15,"1,388",0,0,0,6,0
+389,Henry Kessler,USA,Defender,,St. Louis,25,1998,8,8,675,1,0,1,1,0
+390,Hosei Kijima,JPN,Midfielder,Forward,St. Louis,21,2002,18,8,784,1,1,2,4,0
+391,Benjamin Kikanovic,USA,Forward,Defender,SJ Earthquakes,24,2000,24,13,"1,253",3,0,3,3,0
+392,Sota Kitahara,USA,Defender,Midfielder,Seattle Sounders FC,21,2003,2,2,147,0,0,0,0,0
+393,Klauss,BRA,Forward,,St. Louis,26,1997,27,23,"1,961",5,3,8,3,0
+394,John Klein,USA,Forward,Midfielder,St. Louis,24,1999,10,6,545,1,1,2,0,0
+395,Mateusz Klich,POL,Midfielder,,D.C. United,33,1990,31,31,"2,664",2,5,7,10,0
+396,Jeorgio Kocevski,USA,Midfielder,Forward,Orlando City,21,2002,11,1,157,0,0,0,0,0
+397,Žan Kolmanič,SVN,Defender,Forward,Austin,23,2000,15,6,537,0,3,3,2,0
+398,Georgios Koutsias,GRE,Forward,Midfielder,Chicago Fire,19,2004,30,5,810,2,1,3,2,0
+399,Sebastian Kowalczyk,POL,Forward,Midfielder,Houston Dynamo,25,1998,33,24,"2,147",4,1,5,7,0
+400,Damir Kreilach,CRO,Forward,,Vancouver W'caps,34,1989,17,6,468,2,0,2,0,0
+401,Serhiy Kryvtsov,UKR,Defender,,Inter Miami,32,1991,23,16,"1,390",1,0,1,4,0
+402,Theodore Ku-Dipietro,USA,Midfielder,Forward,D.C. United,22,2002,29,24,"1,864",2,4,6,2,0
+403,Yuya Kubo,JPN,Forward,Defender,FC Cincinnati,30,1993,32,27,"2,398",10,2,12,5,0
+404,Mathías Laborda,URU,Defender,,Vancouver W'caps,24,1999,26,23,"1,953",2,0,2,3,0
+405,Luca Langoni,ARG,Forward,,NE Revolution,21,2002,11,8,706,3,2,5,1,0
+406,Lassi Lappalainen,FIN,Defender,Midfielder,CF Montréal,25,1998,11,1,331,0,1,1,0,0
+407,Oliver Larraz,USA,Midfielder,,Colorado Rapids,22,2001,34,25,"2,198",1,0,1,2,0
+408,Richie Laryea,CAN,Defender,Midfielder,Toronto FC,29,1995,12,10,901,1,2,3,4,0
+409,Ariel Lassiter,CRC,Defender,Midfielder,Chicago Fire,29,1994,7,5,445,0,1,1,1,0
+410,Ariel Lassiter,CRC,Defender,Midfielder,CF Montréal,29,1994,20,20,"1,592",3,5,8,5,1
+411,Randall Leal,CRC,Midfielder,,Nashville SC,27,1997,4,0,47,0,1,1,0,0
+412,Tim Leibold,GER,Defender,,Sporting KC,30,1993,28,24,"2,201",1,1,2,5,0
+413,Brooks Lennon,USA,Defender,Midfielder,Atlanta Utd,26,1997,33,33,"2,956",0,7,7,7,0
+414,Tucker Lepley,USA,Midfielder,,LA Galaxy,22,2002,3,1,47,0,0,0,0,0
+415,Jonathan Lewis,USA,Forward,,Colorado Rapids,26,1997,24,7,755,3,3,6,1,0
+416,Danny Leyva,USA,Midfielder,,Seattle Sounders FC,20,2003,12,2,229,0,0,0,1,0
+417,Nick Lima,USA,Defender,,NE Revolution,29,1994,25,20,"1,817",1,0,1,2,0
+418,Jaylin Lindsey,USA,Defender,,Charlotte,23,2000,7,3,303,0,0,0,1,0
+419,Sebastian Lletget,USA,Midfielder,,FC Dallas,31,1992,31,20,"1,860",2,7,9,1,0
+420,Hugo Lloris,FRA,Keeper,,LAFC,37,1986,33,33,"2,970",0,0,0,1,0
+421,Saba Lobzhanidze,GEO,Forward,Midfielder,Atlanta Utd,29,1994,30,29,"2,454",9,3,12,1,0
+422,Robin Lod,FIN,Midfielder,Forward,Minnesota Utd,30,1993,32,28,"2,387",7,13,20,2,0
+423,Nicolás Lodeiro,URU,Midfielder,Forward,Orlando City,34,1989,34,16,"1,707",1,7,8,1,0
+424,Jasper Löffelsend,GER,Midfielder,,Colorado Rapids,26,1997,18,2,343,0,0,0,3,0
+425,Aaron Long,USA,Defender,,LAFC,31,1992,29,28,"2,374",1,0,1,3,0
+426,Kevin Long,IRL,Defender,,Toronto FC,33,1990,26,24,"2,114",0,0,0,9,1
+427,Matthew Longstaff,ENG,Midfielder,,Toronto FC,23,2000,32,25,"2,220",2,2,4,6,0
+428,Antino Lopez,USA,Midfielder,,Seattle Sounders FC,21,2002,1,0,6,0,0,0,0,0
+429,Hernán López Muñoz,ARG,Midfielder,Forward,SJ Earthquakes,23,2000,24,22,"1,819",6,2,8,4,0
+430,Marvin Loría,CRC,Midfielder,,Portland Timbers,26,1997,1,0,1,0,0,0,0,0
+431,Evan Louro,USA,Keeper,,FC Cincinnati,28,1996,1,1,90,0,0,0,0,0
+432,Daniel Lovitz,USA,Defender,,Nashville SC,32,1991,28,25,"2,269",0,0,0,5,0
+433,Damion Lowe,JAM,Defender,,Philadelphia Union,30,1993,12,12,964,0,0,0,5,0
+434,Eduard Löwen,GER,Midfielder,,St. Louis,27,1997,23,21,"1,858",5,2,7,3,0
+435,Diego Luna,USA,Forward,,Real Salt Lake,20,2003,31,26,"2,207",8,8,16,5,0
+436,Benjamin Lundt,GER,Keeper,,St. Louis,28,1995,3,2,239,0,0,0,0,0
+437,Jack Lynn,USA,Forward,Midfielder,Orlando City,24,2000,11,2,256,2,0,2,0,0
+438,Larrys Mabiala,COD,Defender,,Portland Timbers,36,1987,1,1,45,0,0,0,0,0
+439,Aimé Mabika,ZAM,Defender,,Toronto FC,25,1998,12,3,464,0,0,0,2,0
+440,Zac MacMath,USA,Keeper,,Real Salt Lake,32,1991,23,23,"2,070",0,0,0,3,0
+441,Lukas MacNaughton,CAN,Defender,,Nashville SC,28,1995,6,5,411,0,0,0,1,0
+442,Talles Magno,BRA,Forward,Midfielder,NYCFC,21,2002,3,0,68,1,0,1,0,0
+443,Jack Maher,USA,Defender,,Nashville SC,24,1999,28,27,"2,428",1,0,1,2,0
+444,Cassius Mailula,RSA,Midfielder,Defender,Toronto FC,22,2001,2,0,19,0,0,0,0,0
+445,Adilson Malanda,FRA,Defender,,Charlotte,22,2001,32,32,"2,880",1,0,1,3,0
+446,Elias Manoel,BRA,Forward,,NY Red Bulls,22,2001,33,17,"1,547",8,1,9,1,0
+447,Dominik Marczuk,POL,Forward,,Real Salt Lake,20,2003,8,5,452,1,1,2,0,0
+448,Paul Marie,FRA,Defender,Forward,SJ Earthquakes,28,1995,30,16,"1,537",3,1,4,4,0
+449,Anthony Markanich,PHI,Midfielder,Defender,Minnesota Utd,24,1999,2,1,62,0,0,0,0,0
+450,Anthony Markanich,PHI,Defender,,St. Louis,24,1999,19,15,"1,312",0,0,0,6,1
+451,Idan Markovich,ISR,Forward,,Charlotte,19,2004,1,0,18,0,0,0,0,0
+452,Marlon,BRA,Defender,,LAFC,28,1995,5,1,126,1,0,1,1,0
+453,Jahkeele Marshall-Rutty,CAN,Defender,Midfielder,Toronto FC,19,2004,22,10,"1,035",1,3,4,1,0
+454,Jahkeele Marshall-Rutty,CAN,Defender,Midfielder,CF Montréal,19,2004,9,7,650,0,0,0,2,0
+455,Alonso Martínez,CRC,Forward,,NYCFC,25,1998,26,19,"1,488",16,3,19,1,0
+456,David Martínez,VEN,Forward,Midfielder,LAFC,17,2006,17,4,456,4,2,6,2,1
+457,Josef Martínez,VEN,Forward,Midfielder,CF Montréal,30,1993,23,13,"1,376",11,3,14,2,0
+458,Luís Martins,POR,Defender,Midfielder,Vancouver W'caps,31,1992,16,9,774,0,1,1,0,0
+459,Thiago Martins,BRA,Defender,,NYCFC,28,1995,31,31,"2,789",0,0,0,5,0
+460,Alexandru Mățan,ROU,Midfielder,,Columbus Crew,24,1999,28,17,"1,441",4,2,6,2,0
+461,Jimmy Maurer,USA,Keeper,,FC Dallas,35,1988,4,4,360,0,0,0,0,0
+462,Andreas Maxsø,DEN,Defender,,Colorado Rapids,29,1994,34,34,"3,060",0,1,1,3,0
+463,Olivier Mbaizo,CMR,Defender,,Philadelphia Union,26,1997,21,12,"1,110",0,1,1,0,0
+464,John McCarthy,USA,Keeper,,LA Galaxy,31,1992,32,32,"2,880",0,0,0,1,0
+465,Dax McCarty,USA,Midfielder,,Atlanta Utd,36,1987,22,10,915,0,0,0,1,0
+466,Christian McFarlane,ENG,Defender,Midfielder,NYCFC,17,2007,8,4,364,0,0,0,0,0
+467,Jack McGlynn,USA,Midfielder,,Philadelphia Union,20,2003,30,25,"2,309",4,5,9,3,0
+468,Zac McGraw,CAN,Defender,,Portland Timbers,26,1997,13,10,857,0,0,0,2,0
+469,Duncan McGuire,USA,Forward,,Orlando City,22,2001,27,18,"1,600",10,2,12,6,0
+470,Thomas McNamara,USA,Forward,Midfielder,NE Revolution,32,1991,5,2,203,0,0,0,0,0
+471,Brendan McSorley,USA,Forward,,St. Louis,21,2002,1,0,9,0,0,0,0,0
+472,Christopher McVey,SWE,Defender,,D.C. United,26,1997,27,26,"2,145",1,0,1,5,0
+473,Ryan Meara,USA,Keeper,,NY Red Bulls,33,1990,7,7,630,0,0,0,1,0
+474,Tim Melia,USA,Keeper,,Sporting KC,37,1986,28,28,"2,520",0,0,0,1,0
+475,Jonathan Mensah,GHA,Defender,Forward,NE Revolution,33,1990,8,3,268,0,0,0,0,0
+476,Loïc Mesanvi,TOG,Forward,Midfielder,Minnesota Utd,20,2003,3,0,65,0,0,0,0,0
+477,Lionel Messi,ARG,Forward,Midfielder,Inter Miami,36,1987,19,15,"1,489",20,11,31,2,0
+478,Matt Miazga,USA,Defender,,FC Cincinnati,28,1995,16,16,"1,413",0,0,0,3,0
+479,Micael,BRA,Defender,,Houston Dynamo,23,2000,32,30,"2,769",0,0,0,6,0
+480,Benji Michel,USA,Forward,Midfielder,Real Salt Lake,26,1997,2,0,33,0,0,0,0,0
+481,Novak Mićović,SRB,Keeper,,LA Galaxy,22,2001,2,2,180,0,0,0,1,0
+482,Djordje Mihailovic,USA,Midfielder,,Colorado Rapids,25,1998,29,29,"2,473",11,10,21,6,0
+483,Jovan Mijatović,SRB,Forward,Midfielder,NYCFC,18,2005,11,2,271,0,0,0,0,0
+484,Eric Miller,USA,Defender,,Portland Timbers,31,1993,25,8,"1,012",1,1,2,3,0
+485,Kamal Miller,CAN,Defender,,Portland Timbers,26,1997,23,22,"1,959",0,0,0,8,0
+486,Peyton Miller,USA,Defender,,NE Revolution,16,2007,10,8,683,0,2,2,2,0
+487,Tyler Miller,USA,Keeper,,D.C. United,30,1993,5,5,450,0,0,0,1,0
+488,Georgi Minoungou,CIV,Forward,,Seattle Sounders FC,21,2002,10,3,371,1,0,1,0,0
+489,Aleksei Miranchuk,RUS,Midfielder,Forward,Atlanta Utd,28,1995,9,8,748,3,1,4,0,0
+490,Roald Mitchell,USA,Forward,,NY Red Bulls,21,2003,2,0,18,0,0,0,0,0
+491,Shakur Mohammed,GHA,Midfielder,Forward,Orlando City,20,2003,2,0,5,0,0,0,0,0
+492,Shaq Moore,USA,Defender,,Nashville SC,27,1996,23,19,"1,671",1,2,3,2,0
+493,Felipe Mora,CHI,Forward,,Portland Timbers,30,1993,29,22,"1,889",14,2,16,3,1
+494,Alfredo Morales,USA,Midfielder,,SJ Earthquakes,33,1990,23,4,649,0,0,0,3,0
+495,Efrain Morales,BOL,Defender,,Atlanta Utd,19,2004,4,3,244,0,0,0,0,0
+496,Maximiliano Moralez,ARG,Midfielder,Forward,NYCFC,36,1987,17,9,901,1,5,6,4,0
+497,Steven Moreira,CPV,Defender,,Columbus Crew,29,1994,27,23,"2,108",2,3,5,0,0
+498,Junior Moreno,VEN,Midfielder,Forward,Houston Dynamo,30,1993,2,0,22,0,0,0,0,0
+499,Santiago Moreno,COL,Forward,Midfielder,Portland Timbers,23,2000,31,29,"2,435",6,10,16,1,0
+500,Lewis Morgan,SCO,Forward,Midfielder,NY Red Bulls,27,1996,29,26,"2,414",13,5,18,0,0
+501,Aidan Morris,USA,Midfielder,,Columbus Crew,22,2001,16,15,"1,274",2,2,4,0,0
+502,Jordan Morris,USA,Forward,,Seattle Sounders FC,29,1994,34,32,"2,790",13,4,17,4,0
+503,Edwin Mosquera,COL,Forward,Midfielder,Atlanta Utd,22,2001,22,5,626,1,3,4,2,0
+504,Jean Mota,BRA,Midfielder,,Inter Miami,30,1993,2,0,26,0,0,0,0,0
+505,Cole Mrowka,USA,Midfielder,,Columbus Crew,17,2006,1,0,1,0,0,0,0,0
+506,Chris Mueller,USA,Forward,Midfielder,Chicago Fire,27,1996,27,15,"1,352",0,2,2,1,0
+507,Hany Mukhtar,GER,Midfielder,Forward,Nashville SC,28,1995,32,31,"2,745",8,9,17,5,0
+508,Luis Müller,GER,Forward,Midfielder,LAFC,22,2001,4,0,8,0,0,0,0,0
+509,Daniel Munie,USA,Defender,,SJ Earthquakes,23,2000,17,12,"1,114",0,0,0,0,0
+510,Luis Muriel,COL,Forward,Midfielder,Orlando City,32,1991,33,14,"1,583",5,5,10,2,0
+511,Ian Murphy,USA,Defender,,FC Cincinnati,24,2000,31,23,"2,290",0,0,0,8,0
+512,Jacob Murrell,USA,Forward,Midfielder,D.C. United,19,2004,27,6,884,1,2,3,2,0
+513,Petar Musa,CRO,Forward,,FC Dallas,25,1998,30,27,"2,297",16,3,19,6,0
+514,Daniel Musovski,USA,Forward,Midfielder,Seattle Sounders FC,28,1995,24,4,516,1,1,2,1,0
+515,Alex Muyl,USA,Forward,Defender,Nashville SC,28,1995,34,27,"2,302",5,1,6,3,0
+516,Tristan Muyumba,FRA,Midfielder,,Atlanta Utd,26,1997,30,25,"2,115",0,2,2,5,0
+517,Darlington Nagbe,USA,Midfielder,,Columbus Crew,33,1990,29,28,"2,347",0,1,1,2,0
+518,Federico Navarro,ARG,Midfielder,,Chicago Fire,23,2000,16,8,679,0,1,1,5,0
+519,Rafael Navarro,BRA,Forward,,Colorado Rapids,23,2000,34,33,"2,773",15,1,16,6,0
+520,Logan Ndenbe,BEL,Defender,,Sporting KC,23,2000,5,3,239,0,0,0,0,0
+521,Jalen Neal,USA,Defender,,LA Galaxy,20,2003,18,14,"1,383",0,0,0,4,0
+522,Dylan Nealis,USA,Defender,,NY Red Bulls,25,1998,30,25,"2,331",0,3,3,3,1
+523,Sean Nealis,USA,Defender,,NY Red Bulls,27,1997,28,24,"2,236",0,2,2,4,2
+524,Franco Negri,ARG,Defender,,Inter Miami,28,1995,11,9,790,0,1,1,1,0
+525,John Nelson,USA,Defender,,LA Galaxy,25,1998,23,12,"1,166",0,0,0,2,0
+526,Jake Nerwinski,USA,Defender,,St. Louis,29,1994,11,6,558,1,0,1,1,0
+527,Serge Ngoma,USA,Midfielder,Forward,NY Red Bulls,18,2005,8,0,117,1,0,1,2,0
+528,Joakim Nilsson,SWE,Defender,,St. Louis,29,1994,19,15,"1,211",1,0,1,5,0
+529,Nolan Norris,USA,Midfielder,,FC Dallas,18,2005,4,2,194,0,0,0,3,0
+530,Tsiki Ntsabeleng,RSA,Midfielder,Forward,FC Dallas,25,1998,25,11,"1,085",1,1,2,3,0
+531,Obinna Nwobodo,NGA,Midfielder,,FC Cincinnati,27,1996,30,29,"2,456",0,1,1,9,1
+532,Moses Nyeman,USA,Midfielder,,Minnesota Utd,20,2003,4,1,133,0,0,0,0,1
+533,Lewis O'Brien,ENG,Midfielder,,LAFC,25,1998,9,9,784,0,1,1,1,1
+534,Aidan O'Connor,USA,Defender,,NY Red Bulls,22,2001,2,0,19,0,0,0,0,0
+535,Rory O'Driscoll,USA,Forward,Midfielder,Minnesota Utd,23,2000,1,0,1,0,0,0,0,0
+536,Shane O'Neill,USA,Defender,,Toronto FC,30,1993,20,14,"1,135",0,0,0,7,0
+537,Kevin O'Toole,USA,Defender,,NYCFC,25,1998,30,28,"2,394",1,3,4,1,0
+538,Jáder Obrian,COL,Forward,Midfielder,Austin,28,1995,34,30,"2,246",7,2,9,5,0
+539,Édier Ocampo,COL,Defender,Forward,Vancouver W'caps,20,2003,6,1,177,0,0,0,0,0
+540,Agustin Ojeda,ARG,Forward,,NYCFC,19,2004,22,11,925,3,0,3,1,0
+541,Braian Ojeda,PAR,Midfielder,,Real Salt Lake,23,2000,33,31,"2,690",2,4,6,6,1
+542,Martín Ojeda,ARG,Midfielder,Forward,Orlando City,25,1998,34,24,"1,905",4,9,13,2,0
+543,Cristian Olivera,URU,Forward,Midfielder,LAFC,21,2002,21,21,"1,714",6,1,7,1,0
+544,Christopher Olney,USA,Midfielder,,Philadelphia Union,17,2006,1,0,19,0,0,0,0,0
+545,Tani Oluwaseyi,CAN,Forward,Midfielder,Minnesota Utd,23,2000,25,10,"1,084",8,5,13,4,0
+546,Wyatt Omsberg,USA,Defender,,Chicago Fire,28,1995,12,11,835,0,0,0,4,0
+547,Kwadwo Opoku,GHA,Midfielder,Forward,CF Montréal,22,2001,16,6,522,2,1,3,0,0
+548,Nathan Ordaz,SLV,Forward,Midfielder,LAFC,20,2004,17,3,381,1,2,3,1,0
+549,Luca Orellano,ARG,Defender,Forward,FC Cincinnati,23,2000,33,30,"2,644",10,5,15,6,0
+550,Prince Osei Owusu,GER,Forward,,Toronto FC,27,1997,31,20,"1,839",9,0,9,2,0
+551,Jonathan Osorio,CAN,Midfielder,Forward,Toronto FC,31,1992,22,21,"1,853",2,1,3,8,0
+552,Tomáš Ostrák,CZE,Midfielder,,St. Louis,23,2000,12,8,689,1,0,1,3,0
+553,Javier Otero,VEN,Keeper,,Orlando City,21,2002,1,0,62,0,0,0,0,0
+554,Bryan Oviedo,CRC,Defender,,Real Salt Lake,33,1990,15,6,635,0,2,2,2,0
+555,Devin Padelford,USA,Defender,,Minnesota Utd,21,2003,24,19,"1,589",0,0,0,4,0
+556,Maarten Paes,IDN,Keeper,,FC Dallas,25,1998,30,30,"2,700",0,0,0,2,0
+557,Joseph Paintsil,GHA,Forward,,LA Galaxy,25,1998,29,28,"2,294",10,7,17,7,0
+558,Nelson Palacio,COL,Midfielder,,Real Salt Lake,22,2001,23,5,744,1,1,2,2,0
+559,Sergi Palencia,ESP,Defender,Midfielder,LAFC,27,1996,30,26,"2,289",0,2,2,9,1
+560,Jack Panayotou,USA,Forward,Midfielder,NE Revolution,19,2004,6,3,262,0,0,0,1,0
+561,Elliot Panicco,USA,Keeper,,Nashville SC,27,1996,6,5,432,0,0,0,0,0
+562,James Pantemis,CAN,Keeper,,Portland Timbers,26,1997,15,14,"1,301",0,0,0,0,0
+563,Cristhian Paredes,PAR,Midfielder,,Portland Timbers,25,1998,31,13,"1,350",0,2,2,4,0
+564,Isaiah Parente,USA,Midfielder,,LA Galaxy,23,2000,6,0,44,0,0,0,0,0
+565,Tim Parker,USA,Defender,,NE Revolution,30,1993,7,4,400,0,0,0,2,0
+566,Tim Parker,USA,Defender,,St. Louis,30,1993,21,20,"1,789",0,0,0,6,0
+567,Keaton Parks,USA,Midfielder,,NYCFC,26,1997,32,30,"2,504",2,2,4,7,1
+568,Jamie Paterson,ENG,Forward,Midfielder,Charlotte,32,1991,4,0,49,0,0,0,0,0
+569,João Paulo Mior,BRA,Midfielder,,Seattle Sounders FC,32,1991,21,16,"1,276",0,1,1,2,0
+570,Tom Pearce,ENG,Defender,,CF Montréal,25,1998,8,3,251,1,1,2,2,0
+571,João Pedro,BRA,Defender,,Charlotte,20,2003,7,5,460,0,0,0,1,0
+572,Amahl Pellegrino,NOR,Forward,,SJ Earthquakes,33,1990,32,22,"1,725",7,2,9,0,0
+573,Matti Peltola,FIN,Midfielder,Defender,D.C. United,21,2002,31,24,"2,218",0,0,0,4,1
+574,Andrés Perea,USA,Midfielder,,NYCFC,23,2000,28,11,"1,206",3,1,4,5,0
+575,Daniel Pereira,VEN,Midfielder,,Austin,23,2000,26,23,"2,033",1,4,5,9,0
+576,Joaquín Pereyra,ARG,Midfielder,Forward,Minnesota Utd,25,1998,7,7,407,0,1,1,2,0
+577,Jonathan Perez,MEX,Midfielder,Forward,Nashville SC,21,2003,6,2,236,0,0,0,0,0
+578,Jonathan Perez,MEX,Forward,Midfielder,LA Galaxy,21,2003,6,2,133,0,0,0,0,0
+579,Nikola Petković,SRB,Midfielder,,Charlotte,20,2003,14,5,500,1,1,2,3,0
+580,Luca Petrasso,CAN,Midfielder,Forward,Orlando City,23,2000,2,0,23,0,0,0,0,0
+581,Raoul Petretta,ITA,Defender,,Toronto FC,26,1997,27,25,"1,902",1,3,4,6,0
+582,Fafà Picault,HAI,Forward,Midfielder,Vancouver W'caps,32,1991,29,18,"1,675",9,5,14,8,1
+583,Kayden Pierre,USA,Defender,,Sporting KC,20,2003,7,7,454,0,1,1,0,0
+584,Samuel Piette,CAN,Midfielder,,CF Montréal,29,1994,27,26,"2,136",1,1,2,6,0
+585,Mauricio Pineda,USA,Defender,Midfielder,Chicago Fire,26,1997,21,11,"1,149",1,0,1,5,0
+586,Malik Pinto,USA,Midfielder,Forward,FC Cincinnati,21,2002,11,1,157,0,0,0,0,0
+587,Gabriel Pirani,BRA,Midfielder,Forward,D.C. United,21,2002,33,13,"1,338",6,1,7,3,0
+588,Matt Polster,USA,Midfielder,,NE Revolution,30,1993,31,31,"2,634",0,1,1,9,0
+589,Célio Pompeu,BRA,Forward,Midfielder,St. Louis,24,1999,17,15,"1,243",3,3,6,5,0
+590,Paxton Pomykal,USA,Midfielder,,FC Dallas,24,1999,1,0,7,0,0,0,0,0
+591,Ezequiel Ponce,ARG,Forward,,Houston Dynamo,26,1997,10,9,741,5,0,5,3,0
+592,Tomas Pondeca,USA,Midfielder,,FC Dallas,22,2001,3,2,116,0,0,0,0,0
+593,Alvas Powell,JAM,Defender,,FC Cincinnati,29,1994,20,10,784,0,0,0,4,1
+594,Ralph Priso-Mbongue,CAN,Midfielder,,Vancouver W'caps,21,2002,14,5,479,0,1,1,2,0
+595,Andrew Privett,USA,Defender,,Charlotte,23,2000,30,30,"2,681",0,0,0,5,0
+596,Riqui Puig,ESP,Midfielder,,LA Galaxy,24,1999,29,28,"2,539",13,9,22,10,0
+597,Teemu Pukki,FIN,Forward,,Minnesota Utd,33,1990,21,11,939,4,0,4,0,0
+598,Alan Pulido,MEX,Forward,Midfielder,Sporting KC,32,1991,31,22,"1,953",7,4,11,1,0
+599,John Pulskamp,USA,Keeper,,Sporting KC,22,2001,6,6,540,0,0,0,1,0
+600,Philip Quinton,USA,Defender,,Columbus Crew,24,1999,1,1,90,0,0,0,1,0
+601,Philip Quinton,USA,Defender,,Real Salt Lake,24,1999,19,15,"1,227",1,0,1,0,0
+602,Nemanja Radoja,SRB,Midfielder,,Sporting KC,30,1993,25,25,"2,127",1,3,4,5,0
+603,Jeremy Rafanello,USA,Midfielder,,Philadelphia Union,23,2000,11,4,321,0,0,0,0,0
+604,Jackson Ragen,USA,Defender,,Seattle Sounders FC,25,1998,33,33,"2,902",3,1,4,5,1
+605,Brooklyn Raines,USA,Midfielder,Forward,Houston Dynamo,18,2005,15,4,421,0,0,0,3,0
+606,Alonso Ramírez,MEX,Midfielder,,Austin,22,2001,2,0,23,0,0,0,0,0
+607,Anthony Ramirez,USA,Midfielder,,FC Dallas,18,2005,1,0,1,0,0,0,0,0
+608,Christian Ramirez,USA,Midfielder,Forward,Columbus Crew,32,1991,25,16,"1,429",8,3,11,0,0
+609,Rubén Ramos,USA,Forward,Midfielder,LA Galaxy,17,2007,2,0,14,0,0,0,0,0
+610,Ryan Raposo,CAN,Defender,Midfielder,Vancouver W'caps,24,1999,30,18,"1,584",3,4,7,3,0
+611,Henrich Ravas,SVK,Keeper,,NE Revolution,26,1997,8,8,720,0,0,0,0,0
+612,Tim Ream,USA,Defender,,Charlotte,36,1987,9,9,795,1,0,1,0,0
+613,Federico Redondo,ARG,Midfielder,,Inter Miami,21,2003,16,14,"1,118",2,2,4,5,0
+614,Jayden Reid,USA,Defender,,St. Louis,22,2001,12,7,732,0,2,2,3,0
+615,Marco Reus,GER,Midfielder,,LA Galaxy,34,1989,6,4,358,1,2,3,0,0
+616,Andrés Reyes,COL,Defender,,NY Red Bulls,24,1999,23,18,"1,492",1,0,1,3,1
+617,Justin Reynolds,USA,Defender,,Chicago Fire,19,2004,8,1,224,0,0,0,0,0
+618,Emanuel Reynoso,ARG,Midfielder,,Minnesota Utd,28,1995,1,0,31,0,0,0,0,0
+619,Spencer Richey,USA,Keeper,,Chicago Fire,31,1992,1,1,90,0,0,0,0,0
+620,Will Richmond,USA,Forward,,SJ Earthquakes,23,2000,1,0,2,0,0,0,0,0
+621,Andrew Rick,USA,Keeper,,Philadelphia Union,18,2006,6,6,540,0,0,0,0,0
+622,Jamar Ricketts,USA,Midfielder,,SJ Earthquakes,22,2001,1,0,35,0,0,0,0,0
+623,Kalani Rienzi,USA,Defender,Forward,Seattle Sounders FC,21,2002,1,0,13,0,0,0,1,0
+624,Emiliano Rigoni,ARG,Forward,,Austin,30,1993,11,7,702,1,0,1,0,0
+625,Alexander Ring,FIN,Midfielder,,Austin,32,1991,34,29,"2,596",2,4,6,5,0
+626,Birk Risa,NOR,Defender,,NYCFC,25,1998,29,25,"2,155",0,0,0,2,0
+627,Miles Robinson,USA,Defender,,FC Cincinnati,26,1997,25,25,"2,229",1,0,1,5,1
+628,Stian Rode Gregersen,NOR,Defender,,Atlanta Utd,28,1995,23,20,"1,761",2,0,2,9,1
+629,Rodrigues,BRA,Defender,,SJ Earthquakes,26,1997,31,31,"2,758",3,1,4,3,0
+630,Jonathan Rodríguez,URU,Forward,,Portland Timbers,30,1993,29,27,"2,427",16,5,21,7,0
+631,Martín Rodríguez,CHI,Midfielder,,D.C. United,29,1994,25,12,"1,257",2,2,4,5,0
+632,Memo Rodriguez,USA,Midfielder,,Sporting KC,28,1995,26,18,"1,615",2,5,7,7,0
+633,Santiago Rodríguez,URU,Forward,Midfielder,NYCFC,24,2000,32,32,"2,792",12,6,18,8,0
+634,Matías Rojas,PAR,Midfielder,Forward,Inter Miami,28,1995,14,9,802,4,2,6,1,0
+635,Alex Roldan,SLV,Defender,,Seattle Sounders FC,27,1996,29,27,"2,284",1,0,1,1,1
+636,Cristian Roldan,USA,Midfielder,Forward,Seattle Sounders FC,28,1995,33,32,"2,839",1,1,2,2,0
+637,Kage Romanshyn,USA,Forward,,Minnesota Utd,18,2005,1,0,12,0,0,0,0,0
+638,Abraham Romero,MEX,Keeper,,Columbus Crew,25,1998,2,2,134,0,0,0,0,1
+639,David Romney,USA,Defender,,NE Revolution,30,1993,27,24,"2,218",0,0,0,1,0
+640,Connor Ronan,IRL,Midfielder,,Colorado Rapids,25,1998,26,21,"1,809",1,1,2,2,0
+641,Joseph Rosales,HON,Defender,Midfielder,Minnesota Utd,23,2000,30,26,"2,399",0,7,7,7,1
+642,Keegan Rosenberry,USA,Defender,,Colorado Rapids,30,1993,31,29,"2,623",0,1,1,1,0
+643,Daniel Rosero,COL,Defender,,Sporting KC,30,1993,23,22,"1,891",2,0,2,5,0
+644,Diego Rossi,URU,Midfielder,Forward,Columbus Crew,25,1998,34,30,"2,627",12,7,19,3,0
+645,Sigurd Rosted,NOR,Defender,,Toronto FC,29,1994,25,19,"1,752",0,0,0,4,0
+646,Paul Rothrock,USA,Forward,,Seattle Sounders FC,25,1999,25,13,"1,316",5,2,7,3,0
+647,Ruan,BRA,Defender,Midfielder,FC Dallas,28,1995,6,5,427,0,1,1,1,0
+648,Ruan,BRA,Defender,Midfielder,CF Montréal,28,1995,25,24,"1,993",2,3,5,2,0
+649,Diego Rubio,CHI,Forward,,Austin,30,1993,33,23,"1,882",4,1,5,7,0
+650,Raúl Ruidíaz,PER,Forward,,Seattle Sounders FC,33,1990,24,14,"1,352",8,0,8,2,1
+651,Pablo Ruíz,ARG,Midfielder,Forward,Real Salt Lake,25,1998,3,2,170,0,0,0,1,0
+652,David Ruíz-Ochoa,HON,Midfielder,Defender,Inter Miami,19,2004,28,11,"1,085",1,2,3,3,1
+653,Albert Rusnák,SVK,Midfielder,,Seattle Sounders FC,29,1994,32,28,"2,530",10,12,22,2,0
+654,Johnny Russell,SCO,Forward,,Sporting KC,33,1990,29,18,"1,731",4,3,7,5,0
+655,Jacen Russell-Rowe,CAN,Midfielder,Forward,Columbus Crew,21,2002,22,10,"1,033",5,1,6,0,0
+656,Ryan Sailor,USA,Defender,,Inter Miami,25,1998,9,2,316,0,0,0,1,0
+657,Carle-Fred Sainte,HAI,Midfielder,,FC Dallas,21,2002,6,1,149,0,0,0,0,0
+658,Nathan-Dylan Saliba,CAN,Midfielder,,CF Montréal,19,2004,24,18,"1,651",1,1,2,7,1
+659,Dániel Sallói,HUN,Forward,,Sporting KC,27,1996,30,23,"2,120",3,4,7,4,0
+660,Tobias Salquist,DEN,Defender,,Chicago Fire,28,1995,14,10,919,0,1,1,1,0
+661,Ilie Sánchez,ESP,Midfielder,,LAFC,33,1990,31,24,"2,156",1,1,2,5,0
+662,James Sands,USA,Midfielder,,NYCFC,23,2000,29,29,"2,555",1,1,2,10,1
+663,William Sands,USA,Defender,,NE Revolution,23,2000,5,5,433,0,2,2,0,0
+664,William Sands,USA,Defender,,Columbus Crew,23,2000,6,4,256,0,0,0,0,0
+665,Jeong Sangbin,KOR,Forward,Midfielder,Minnesota Utd,21,2002,32,25,"2,171",6,1,7,4,0
+666,Sergio Santos Gomes,BRA,Forward,,FC Cincinnati,29,1994,28,6,924,3,1,4,1,0
+667,Pedro Santos,POR,Defender,Midfielder,D.C. United,35,1988,30,20,"1,800",3,3,6,6,1
+668,Rafael Santos,BRA,Defender,,Orlando City,25,1998,32,23,"2,069",1,3,4,2,0
+669,Hayden Sargis,USA,Defender,,D.C. United,21,2002,1,0,30,0,0,0,1,0
+670,Nick Scardina,USA,Forward,,Charlotte,22,2001,1,0,1,0,0,0,0,0
+671,Rodrigo Schlegel,ARG,Defender,,Orlando City,26,1997,28,26,"2,296",1,0,1,5,1
+672,Tate Schmitt,USA,Defender,,Houston Dynamo,26,1997,16,4,435,0,0,0,1,0
+673,David Schnegg,AUT,Defender,,D.C. United,25,1998,2,1,121,1,0,1,1,0
+674,Alessandro Schöpf,AUT,Midfielder,Defender,Vancouver W'caps,29,1994,30,23,"1,938",1,1,2,6,1
+675,Patrick Schulte,USA,Keeper,,Columbus Crew,22,2001,27,27,"2,430",0,0,0,3,0
+676,Tarik Scott,USA,Forward,,FC Dallas,18,2005,2,0,54,0,0,0,1,0
+677,Dante Sealy,USA,Defender,Midfielder,FC Dallas,20,2003,17,9,861,1,0,1,3,0
+678,Gabe Segal,USA,Forward,,Houston Dynamo,22,2001,13,2,202,2,0,2,1,0
+679,Eddie Segura,COL,Defender,Midfielder,LAFC,26,1997,27,12,"1,348",0,1,1,4,0
+680,Amar Sejdic,USA,Midfielder,,Nashville SC,27,1996,17,1,306,0,0,0,0,0
+681,Oliver Semmle,GER,Keeper,,Philadelphia Union,25,1998,17,14,"1,408",0,0,0,1,0
+682,Brandon Servania,USA,Midfielder,,Toronto FC,24,1999,3,1,65,0,0,0,0,0
+683,Jacob Shaffelburg,CAN,Forward,Defender,Nashville SC,24,1999,23,16,"1,409",2,3,5,2,0
+684,Xherdan Shaqiri,SUI,Midfielder,Forward,Chicago Fire,32,1991,12,9,741,2,1,3,1,0
+685,Charles Sharp,USA,Forward,Midfielder,Toronto FC,22,2001,2,0,27,0,0,0,0,0
+686,Samuel Shashoua,ENG,Midfielder,Forward,Minnesota Utd,24,1999,3,0,22,0,0,0,0,0
+687,Khiry Shelton,USA,Defender,,Sporting KC,30,1993,19,9,"1,033",0,2,2,3,0
+688,Show,ANG,Midfielder,,FC Dallas,24,1999,7,6,491,0,0,0,0,0
+689,Marcelo Silva,URU,Defender,,Real Salt Lake,34,1989,3,2,181,0,0,0,0,0
+690,Tommy Silva,USA,Defender,,Real Salt Lake,21,2002,1,0,19,0,0,0,0,0
+691,Xande Silva,POR,Forward,Midfielder,Atlanta Utd,26,1997,23,17,"1,453",2,1,3,2,0
+692,Jonathan Sirois,CAN,Keeper,,CF Montréal,22,2001,33,33,"2,970",0,0,0,1,0
+693,Jack Skahan,USA,Midfielder,Forward,SJ Earthquakes,25,1998,29,6,860,1,1,2,6,0
+694,Joseph Skinner,USA,Forward,,Nashville SC,20,2003,2,0,5,0,0,0,0,0
+695,Bartosz Slisz,POL,Midfielder,,Atlanta Utd,24,1999,28,27,"2,398",1,0,1,3,0
+696,Tyger Smalls,,Forward,,Charlotte,,,15,1,225,0,0,0,3,0
+697,Alec Smir,USA,Keeper,,Minnesota Utd,24,1999,3,3,270,0,0,0,0,0
+698,Brad Smith,AUS,Forward,Defender,Houston Dynamo,29,1994,20,1,401,2,2,4,1,0
+699,Kyle Smith,USA,Defender,Midfielder,Orlando City,32,1992,29,12,"1,150",0,1,1,2,0
+700,Mohammed Sofo,GHA,Midfielder,,NY Red Bulls,19,2004,1,0,28,0,0,0,0,0
+701,Joaquin Sosa,URU,Defender,,CF Montréal,22,2002,19,15,"1,270",0,0,0,4,0
+702,Arnaud Souquet,FRA,Defender,,Chicago Fire,31,1992,26,21,"1,868",0,1,1,0,0
+703,Ryan Spaulding,USA,Defender,Midfielder,NE Revolution,25,1998,11,4,447,0,0,0,0,1
+704,Tyrese Spicer,TRI,Defender,Midfielder,Toronto FC,23,2000,19,13,"1,064",2,1,3,2,0
+705,Dayne St. Clair,CAN,Keeper,,Minnesota Utd,26,1997,26,26,"2,340",0,0,0,2,0
+706,Mason Stajduhar,USA,Keeper,,Orlando City,26,1997,5,5,388,0,0,0,0,0
+707,Zack Steffen,USA,Keeper,,Colorado Rapids,28,1995,33,33,"2,970",0,0,0,3,0
+708,Daniel Steres,USA,Defender,,Houston Dynamo,33,1990,21,12,"1,171",2,2,4,5,0
+709,Kimani Stewart-Baynes,CAN,Forward,Midfielder,Colorado Rapids,19,2005,12,0,140,0,1,1,0,0
+710,Jared Stroud,USA,Midfielder,Forward,D.C. United,27,1996,33,32,"2,496",3,7,10,4,0
+711,Peter Stroud,USA,Midfielder,,NY Red Bulls,21,2002,14,12,844,0,1,1,2,0
+712,Brad Stuver,USA,Keeper,,Austin,32,1991,34,34,"3,060",0,0,0,2,0
+713,Luis Suárez,URU,Forward,,Inter Miami,37,1987,27,21,"1,918",20,9,29,6,0
+714,Cavan Sullivan,USA,Midfielder,Forward,Philadelphia Union,14,2009,3,0,10,0,0,0,0,0
+715,Quinn Sullivan,USA,Midfielder,Forward,Philadelphia Union,19,2004,34,25,"2,403",5,8,13,4,0
+716,Lawson Sunderland,USA,Midfielder,,Inter Miami,22,2001,5,3,193,0,1,1,0,0
+717,Finn Surman,NZL,Defender,,Portland Timbers,20,2003,1,1,90,0,0,0,0,0
+718,Sam Surridge,ENG,Forward,,Nashville SC,25,1998,28,27,"2,387",12,2,14,4,0
+719,Oleksandr Svatok,UKR,Defender,,Austin,29,1994,6,4,408,0,0,0,1,0
+720,Erik Sviatchenko,DEN,Defender,,Houston Dynamo,32,1991,31,29,"2,433",1,3,4,2,0
+721,Karol Świderski,POL,Forward,,Charlotte,27,1997,10,8,530,6,2,8,1,0
+722,Nkosi Tafari,USA,Defender,,FC Dallas,26,1997,28,25,"2,251",3,0,3,6,1
+723,Yohei Takaoka,JPN,Keeper,,Vancouver W'caps,27,1996,33,33,"2,970",0,0,0,2,0
+724,Strahinja Tanasijević,SRB,Defender,,NYCFC,26,1997,16,10,990,0,0,0,6,0
+725,Miguel Tapias,MEX,Defender,,Minnesota Utd,27,1997,25,23,"2,087",0,0,0,6,1
+726,Andrew Tarbell,USA,Keeper,,Houston Dynamo,30,1993,4,3,288,0,0,0,0,0
+727,Iuri Tavares,CPV,Forward,,Charlotte,22,2001,28,8,896,3,1,4,5,0
+728,D.J. Taylor,USA,Defender,Midfielder,Minnesota Utd,26,1997,24,17,"1,485",0,1,1,3,0
+729,Robert Taylor,FIN,Forward,Midfielder,Inter Miami,29,1994,27,22,"1,644",5,3,8,2,0
+730,Carlos Terán,COL,Defender,,Chicago Fire,23,2000,18,14,"1,219",1,1,2,3,1
+731,Cedric Teuchert,GER,Midfielder,Forward,St. Louis,27,1997,10,10,754,5,4,9,2,0
+732,Dylan Teves,USA,Midfielder,Forward,Seattle Sounders FC,23,2000,6,1,89,1,0,1,1,0
+733,Jamal Thiaré,SEN,Forward,,Atlanta Utd,30,1993,25,12,"1,145",6,0,6,0,0
+734,Andrew Thomas,RUS,Keeper,,Seattle Sounders FC,25,1998,7,5,593,0,0,0,0,0
+735,Erik Thommy,GER,Midfielder,Forward,Sporting KC,29,1994,30,26,"2,323",7,4,11,3,0
+736,Kosi Thompson,CAN,Midfielder,Defender,Toronto FC,21,2003,29,6,"1,107",0,0,0,5,0
+737,Tommy Thompson,USA,Defender,Forward,SJ Earthquakes,28,1995,10,0,92,0,0,0,1,0
+738,Timmy Tillman,GER,Midfielder,,LAFC,25,1999,32,29,"2,478",4,3,7,8,0
+739,John Tolkin,USA,Defender,,NY Red Bulls,21,2002,28,27,"2,386",2,1,3,3,0
+740,Nouhou Tolo,CMR,Defender,,Seattle Sounders FC,26,1997,27,26,"2,202",0,0,0,10,1
+741,Ervin Torres,USA,Midfielder,,Austin,16,2007,1,0,8,0,0,0,0,0
+742,Facundo Torres,URU,Forward,Midfielder,Orlando City,23,2000,32,30,"2,633",14,3,17,3,0
+743,Tomas Totland,NOR,Defender,,St. Louis,25,1998,30,28,"2,486",2,1,3,7,0
+744,Mason Toye,USA,Forward,Midfielder,Portland Timbers,25,1998,5,1,148,0,0,0,0,0
+745,Mason Toye,USA,Forward,Midfielder,CF Montréal,25,1998,12,6,476,1,0,1,0,0
+746,Wil Trapp,USA,Midfielder,,Minnesota Utd,31,1993,27,26,"2,296",1,1,2,5,0
+747,Jackson Travis,USA,Defender,,Colorado Rapids,19,2004,9,6,482,0,0,0,0,0
+748,Niko Tsakiris,USA,Midfielder,,SJ Earthquakes,18,2005,25,19,"1,468",0,1,1,1,0
+749,Yutaro Tsukada,JPN,Forward,,Orlando City,22,2001,3,0,21,0,0,0,0,0
+750,Garrison Tubbs,USA,Defender,,D.C. United,21,2002,15,7,551,0,0,0,1,0
+751,Bill Tuiloma,NZL,Defender,,Charlotte,28,1995,4,2,199,0,0,0,0,0
+752,Ema Twumasi,GHA,Defender,,FC Dallas,26,1997,19,13,"1,181",0,1,1,3,0
+753,Marinos Tzionis,CYP,Forward,Midfielder,Sporting KC,22,2001,9,4,279,1,0,1,0,0
+754,Mikael Uhre,DEN,Forward,,Philadelphia Union,29,1994,30,25,"2,005",10,5,15,4,0
+755,Jere Uronen,FIN,Defender,,Charlotte,29,1994,26,24,"2,129",0,4,4,2,0
+756,Júnior Urso,BRA,Midfielder,,Charlotte,34,1989,21,11,"1,023",1,0,1,3,0
+757,Óscar Ustari,ARG,Keeper,,Inter Miami,37,1986,1,1,90,0,0,0,0,0
+758,Leo Väisänen,FIN,Defender,,Austin,26,1997,13,9,831,0,0,0,0,0
+759,Jhojan Valencia,COL,Midfielder,,Austin,27,1996,27,16,"1,438",0,0,0,8,0
+760,Omar Valencia,PAN,Midfielder,,NY Red Bulls,19,2004,1,0,2,0,0,0,0,0
+761,Zarek Valentin,PUR,Defender,Midfielder,Minnesota Utd,32,1991,4,0,37,0,0,0,0,0
+762,Gerardo Valenzuela,USA,Midfielder,Forward,FC Cincinnati,19,2004,30,11,962,1,1,2,2,0
+763,Jefferson Valverde,ECU,Defender,,Houston Dynamo,24,1999,1,0,13,0,0,0,0,0
+764,Dante Vanzeir,BEL,Forward,,NY Red Bulls,25,1998,32,27,"2,081",4,9,13,2,0
+765,Alenis Vargas,HON,Forward,,Sporting KC,20,2003,20,8,633,2,1,3,1,0
+766,Kerwin Vargas,COL,Forward,,Charlotte,22,2002,33,29,"2,453",6,2,8,7,0
+767,Obed Vargas,MEX,Midfielder,Forward,Seattle Sounders FC,18,2005,30,28,"2,536",1,4,5,5,1
+768,Indiana Vassilev,USA,Midfielder,Forward,St. Louis,22,2001,29,23,"1,838",3,4,7,5,0
+769,Alan Velasco,ARG,Forward,Midfielder,FC Dallas,21,2002,8,5,370,2,0,2,3,0
+770,Brayan Vera,COL,Defender,,Real Salt Lake,25,1999,24,24,"2,107",2,2,4,9,1
+771,Oscar Verhoeven,USA,Defender,,SJ Earthquakes,17,2006,6,5,401,0,0,0,1,0
+772,Ranko Veselinović,SRB,Defender,,Vancouver W'caps,24,1999,32,31,"2,764",2,1,3,4,0
+773,Jules-Anthony Vilsaint,CAN,Midfielder,Forward,CF Montréal,21,2003,19,10,839,2,2,4,1,0
+774,Sam Vines,USA,Defender,,Colorado Rapids,24,1999,27,24,"2,168",1,1,2,0,0
+775,Pedro Vite,ECU,Midfielder,,Vancouver W'caps,21,2002,28,23,"2,019",1,1,2,3,0
+776,Robert Voloder,BIH,Defender,,Sporting KC,22,2001,21,19,"1,761",0,1,1,2,0
+777,Giacomo Vrioni,ALB,Forward,,NE Revolution,25,1998,31,26,"2,236",9,1,10,6,1
+778,Kai Wagner,GER,Defender,,Philadelphia Union,26,1997,34,32,"2,905",1,10,11,7,0
+779,Rémi Walter,FRA,Midfielder,,Sporting KC,28,1995,19,14,"1,282",3,0,3,0,0
+780,Victor Wanyama,KEN,Midfielder,,CF Montréal,32,1991,12,4,406,0,0,0,1,0
+781,Taylor Washington,USA,Defender,,Nashville SC,30,1993,15,8,755,0,2,2,0,0
+782,Joel Waterman,CAN,Defender,,CF Montréal,28,1996,25,24,"2,128",0,0,0,6,0
+783,Akil Watts,USA,Defender,Midfielder,St. Louis,23,2000,17,9,966,0,1,1,2,0
+784,Patrick Weah,LBR,Forward,,Minnesota Utd,20,2003,3,0,35,0,0,0,0,0
+785,Marcelo Weigandt,ARG,Defender,Midfielder,Inter Miami,24,2000,23,22,"1,998",0,2,2,8,0
+786,Michael Wentzel,GER,Defender,,St. Louis,21,2002,4,2,174,0,0,0,0,0
+787,Ashley Westwood,ENG,Midfielder,,Charlotte,33,1990,33,33,"2,970",2,5,7,7,0
+788,Brian White,USA,Forward,,Vancouver W'caps,27,1996,30,28,"2,450",15,2,17,5,0
+789,Caleb Wiley,USA,Defender,,Atlanta Utd,19,2004,21,21,"1,884",1,1,2,2,0
+790,Derrick Williams,IRL,Defender,,Atlanta Utd,31,1993,27,26,"2,260",0,0,0,3,0
+791,Eryk Williamson,USA,Midfielder,,Portland Timbers,26,1997,28,10,"1,068",2,2,4,5,0
+792,Joe Willis,USA,Keeper,,Nashville SC,35,1988,30,29,"2,626",0,0,0,1,1
+793,Bruno Wilson,POR,Defender,,SJ Earthquakes,27,1996,13,12,"1,041",1,2,3,3,1
+794,Henry Wingo,USA,Defender,,Toronto FC,28,1995,4,2,175,0,0,0,0,0
+795,Hannes Wolf,AUT,Forward,Midfielder,NYCFC,24,1999,34,32,"2,559",5,7,12,3,0
+796,Owen Wolff,USA,Forward,Midfielder,Austin,19,2004,33,17,"1,782",1,3,4,4,0
+797,Tyler Wolff,USA,Forward,Midfielder,Atlanta Utd,20,2003,18,6,479,1,0,1,0,0
+798,Bobby Wood,USA,Forward,,NE Revolution,31,1992,18,6,556,4,0,4,1,0
+799,Miki Yamane,JPN,Defender,,LA Galaxy,30,1993,33,33,"2,921",0,4,4,2,0
+800,Dominik Yankov,BUL,Midfielder,Forward,CF Montréal,23,2000,21,6,699,2,1,3,4,0
+801,Darren Yapi,USA,Forward,,Colorado Rapids,19,2004,31,5,750,2,1,3,5,1
+802,William Yarbrough,USA,Keeper,,SJ Earthquakes,34,1989,19,19,"1,710",0,0,0,1,0
+803,Joshua Yaro,GHA,Defender,,St. Louis,29,1994,13,7,772,1,0,1,1,0
+804,Patrick Yazbek,AUS,Midfielder,,Nashville SC,21,2002,7,4,375,0,0,0,2,0
+805,Dru Yearwood,ENG,Midfielder,,Nashville SC,23,2000,25,20,"1,515",1,1,2,5,0
+806,Kelvin Yeboah,ITA,Forward,,Minnesota Utd,23,2000,9,8,709,7,1,8,3,0
+807,Yaw Yeboah,GHA,Defender,Midfielder,Columbus Crew,26,1997,24,10,"1,051",1,5,6,3,0
+808,DeAndre Yedlin,USA,Defender,,Inter Miami,30,1993,3,3,270,0,0,0,0,0
+809,DeAndre Yedlin,USA,Defender,,FC Cincinnati,30,1993,28,25,"2,193",0,3,3,9,0
+810,Maya Yoshida,JPN,Defender,,LA Galaxy,35,1988,34,34,"3,035",2,0,2,2,0
+811,Jackson Yueill,USA,Midfielder,,SJ Earthquakes,26,1997,32,28,"2,452",1,1,2,4,1
+812,Alhassan Yusuf,NGA,Midfielder,,NE Revolution,23,2000,7,5,446,0,1,1,0,0
+813,Gyasi Zardes,USA,Forward,,Austin,32,1991,33,10,"1,186",3,2,5,2,0
+814,Eriq Zavaleta,SLV,Defender,,LA Galaxy,31,1992,5,1,161,1,0,1,0,1
+815,Sean Zawadzki,USA,Midfielder,Defender,Columbus Crew,23,2000,27,20,"1,875",1,1,2,3,0
+816,Walker Zimmerman,USA,Defender,,Nashville SC,30,1993,25,22,"1,927",1,1,2,2,0
+817,Rida Zouhir,CAN,Midfielder,Defender,CF Montréal,20,2003,7,1,178,0,0,0,2,0
+818,Dario Župarić,BIH,Defender,,Portland Timbers,31,1992,28,24,"2,222",0,0,0,6,0
+819,Nökkvi Þórisson,ISL,Forward,Midfielder,St. Louis,24,1999,30,10,"1,190",4,0,4,3,0
